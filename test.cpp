@@ -1,9 +1,11 @@
 #include <iostream>
 #include <stdio.h>
+#include <stdlib.h>
 #include <list>
 #include <numeric>
 #include <algorithm>
 #include <fstream>
+
 
 using namespace std;
 
@@ -14,27 +16,18 @@ int fabr = 3;   // パー
 typedef list<int> LISTINT;
 ofstream myfile("Result.txt");
 
-#define T 100000
+#define T 1000
 
 int game_num = T;
 
 int game_fig[ T] ;
 
 inline int arith(){
+
 	return rand () % 3 + 1;
 }
-
-inline int test(){
-	for(int i = 0 ; i <= game_num ; i++){
-		cout << game_fig[i] << endl;
-	}
-	return 0;
-}
-
 int algo(){
-	
-
-	LISTINT listOne;
+		LISTINT listOne;
 	for(int i = 0 ; i <= game_num ; ++i ){
 		game_fig[i] = arith();
 	}
@@ -118,8 +111,6 @@ int algo(){
 					cout << i+1 << "の勝ち" << endl;
 					listOne.push_back(i+1);
 				}
-			//	cout << "\n"<< endl;
-
 			}
 		}
 		//cout << "\n"<< endl;
@@ -145,6 +136,7 @@ int algo(){
 
 int main (){
 
+	srand(1);
 	int count = 0;
 	do{
 		algo();
@@ -152,6 +144,7 @@ int main (){
 	}while(game_num > 3);
 
 	cout <<"algoは" << count <<"回実行されました。"<< endl;
+	cout << T << "人の集団" << endl;
 	myfile << "algo " ;
 	myfile << count ;
 	myfile <<" 回実行されました。"<< endl;
