@@ -26,7 +26,7 @@ inline int arith(){
 
 	return rand () % 3 + 1;
 }
-int algo(){
+void algo(){
 		LISTINT listOne;
 	for(int i = 0 ; i <= game_num ; ++i ){
 		game_fig[i] = arith();
