@@ -1,0 +1,6 @@
+n人チキンゲーム　の回数
+隣同士の実験回数
+
+
+program problem
+kernel_task  unix

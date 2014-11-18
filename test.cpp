@@ -16,7 +16,7 @@ int fabr = 3;   // パー
 typedef list<int> LISTINT;
 ofstream myfile("Result.txt");
 
-#define T 1000
+#define T 50
 
 int game_num = T;
 
@@ -32,6 +32,7 @@ void algo(){
 		game_fig[i] = arith();
 	}
 	if(game_num % 2  == 0)
+
 		for(int i = 0 ; i + 1 <= game_num ; i = i+2 ){
 			cout << "\n"<< endl;
 			if( game_fig[i] == rock ){
@@ -129,7 +130,14 @@ void algo(){
 			cout << " \n" <<num << "個の数が残っている"<< endl;
 			
 			myfile << num <</* "個の数が残っている" << */ endl;
+			if(num != 13){
+				for(int i = game_num-13; i > 0  ; --i){
+					ix++;
+				}
+				cout << <<
+			}
 			game_num = num;
+
 			listOne.erase(listOne.begin(),listOne.end());
 
 }
@@ -141,7 +149,7 @@ int main (){
 	do{
 		algo();
 		count++;
-	}while(game_num > 3);
+	}while(game_num > 13);
 
 	cout <<"algoは" << count <<"回実行されました。"<< endl;
 	cout << T << "人の集団" << endl;

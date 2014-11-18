@@ -14,7 +14,7 @@ int count_num = 0 ;
 int remain =0;
 
 
-#define T 50
+#define T 43
 //char num = T;
 ofstream myfile2("arith.txt");
 
@@ -29,8 +29,7 @@ inline int arith(){
 void algo(){
 
 	int *game_fig;
-	game_fig = (int * )malloc(sizeof(int )* T);
-	if(game_fig == NULL)exit(0);
+	game_fig = new int[ T ] ;
 
 		int a_num1 = 0 ;
 		int a_num2 = 0 ;
@@ -55,13 +54,11 @@ void algo(){
 			cout << "a_num2:" << a_num2 << endl;
 			cout << "a_num3:" << a_num3 << endl;
 */
-
-			 free(game_fig) ;
-
 			 a_num1 = 0 ;
 			 a_num2 = 0 ;
 			 a_num3 = 0 ;
 			 count_num ++;
+			 delete[]game_fig ;
 			 break;
 		}
 
@@ -163,7 +160,6 @@ void algo(){
 			myfile2 << "パー:" << a_num3 << endl;
 			myfile2 << "\n";
 			}			
-			//free(game_fig);
 }
 
 int main (){
