@@ -14,7 +14,7 @@ int count_num = 0 ;
 int remain =0;
 
 
-#define T 43
+#define T 40
 //char num = T;
 ofstream myfile2("arith.txt");
 
@@ -29,7 +29,8 @@ inline int arith(){
 void algo(){
 
 	int *game_fig;
-	game_fig = new int[ T ] ;
+	game_fig = (int * )malloc(sizeof(int )* T);
+	if(game_fig == NULL)exit(0);
 
 		int a_num1 = 0 ;
 		int a_num2 = 0 ;
@@ -54,11 +55,13 @@ void algo(){
 			cout << "a_num2:" << a_num2 << endl;
 			cout << "a_num3:" << a_num3 << endl;
 */
+
+			 free(game_fig) ;
+
 			 a_num1 = 0 ;
 			 a_num2 = 0 ;
 			 a_num3 = 0 ;
 			 count_num ++;
-			 delete[]game_fig ;
 			 break;
 		}
 
@@ -94,7 +97,7 @@ void algo(){
 					myfile2 << count_num << "回目に勝負が決まりました" <<endl;
 					myfile2 << remain << "人の勝者が残りました。"<<endl;					
 
-					remain = 0;
+					//remain = 0;
 
 		}else if(a_num1 > 0 && a_num3 >0 && a_num2 == 0){
 
@@ -119,7 +122,7 @@ void algo(){
 					myfile2 << count_num << "回目に勝負が決まりました" <<endl;
 					myfile2 << remain << "人の勝者が残りました。"<<endl;					
 
-					remain = 0;
+					//remain = 0;
 
 		}else if(a_num2 > 0 && a_num3 > 0 && a_num1 == 0){
 			for( int i = 0; i  < game_num ; i++){	
@@ -143,7 +146,7 @@ void algo(){
 					myfile2 << count_num << "回目に勝負が決まりました。" <<endl;
 					myfile2 << remain << "人の勝者が残りました。"<<endl;					
 
-					remain = 0;
+				//	remain = 0;
 		}
 
 				//	 delete[]game_fig ;
@@ -160,6 +163,7 @@ void algo(){
 			myfile2 << "パー:" << a_num3 << endl;
 			myfile2 << "\n";
 			}			
+			//free(game_fig);
 }
 
 int main (){
@@ -167,11 +171,19 @@ int main (){
 	t_start = time(NULL);
 	srand(0);
 	int count = 0;
-	do{
+	if(game_num > 13){
+		do{
 		algo();
 		count++;
-		//cout <<"remain:" <<remain << endl;
-	}while(game_num > 15);
+		remain =0;
+		}while(game_num > 3);//cout <<"remain:" <<remain << endl;
+	}/*else if(game_num < 13){
+		count++;
+
+	}else if(game_num == 13){
+		count++
+		break;
+	}*/
 
 	cout <<"algoは" << count_num <<"回実行されました。"<< endl;
 	cout << T << "人の集団" << endl;

@@ -12,9 +12,9 @@ int fabr = 3;   // パー
 
 int count_num = 0 ;
 int remain =0;
+int befor= 0;
 
-
-#define T 50
+#define T 20
 //char num = T;
 ofstream myfile2("arith.txt");
 
@@ -97,7 +97,7 @@ void algo(){
 					myfile2 << count_num << "回目に勝負が決まりました" <<endl;
 					myfile2 << remain << "人の勝者が残りました。"<<endl;					
 
-					remain = 0;
+					//remain = 0;
 
 		}else if(a_num1 > 0 && a_num3 >0 && a_num2 == 0){
 
@@ -122,7 +122,7 @@ void algo(){
 					myfile2 << count_num << "回目に勝負が決まりました" <<endl;
 					myfile2 << remain << "人の勝者が残りました。"<<endl;					
 
-					remain = 0;
+					//remain = 0;
 
 		}else if(a_num2 > 0 && a_num3 > 0 && a_num1 == 0){
 			for( int i = 0; i  < game_num ; i++){	
@@ -146,7 +146,7 @@ void algo(){
 					myfile2 << count_num << "回目に勝負が決まりました。" <<endl;
 					myfile2 << remain << "人の勝者が残りました。"<<endl;					
 
-					remain = 0;
+					//remain = 0;
 		}
 
 				//	 delete[]game_fig ;
@@ -164,6 +164,7 @@ void algo(){
 			myfile2 << "\n";
 			}			
 			//free(game_fig);
+
 }
 
 int main (){
@@ -171,14 +172,29 @@ int main (){
 	t_start = time(NULL);
 	srand(0);
 	int count = 0;
-	do{
-		algo();
-		count++;
-		//cout <<"remain:" <<remain << endl;
-	}while(game_num > 15);
-
+	if(game_num > 13){
+		do{
+			algo();
+			count++;
+			befor = remain ;
+			cout << "befor:" << befor <<endl;
+			cout << "remain :" << remain <<endl;
+			cout << "game_num" << game_num << endl;
+			remain = 0;
+			//cout <<"remain:" <<remain << endl;
+		}while(game_num > 13);
+	
+	}else if (game_num < 13){
+		do{
+			game_num =befor - 13 ;
+			algo();
+			cout <<"前回の勝者数" << befor <<endl;
+			count++;
+		}while(game_num == 13-remain);
+	}
 	cout <<"algoは" << count_num <<"回実行されました。"<< endl;
 	cout << T << "人の集団" << endl;
+	//cout << "勝者は" << remain << "人" << endl;
 
 	myfile2.close();
 	t_end = time(NULL);
