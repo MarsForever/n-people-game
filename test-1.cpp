@@ -14,9 +14,9 @@ int count_num = 0 ;
 int remain =0;
 int befor= 0;
 
-#define T 50
+#define T 5
 //char num = T;
-ofstream myfile2("arith2.txt");
+ofstream myfile2("arith.txt");
 
 
 int game_num = T;
@@ -50,7 +50,7 @@ void algo(){
 		}
 
 		if(a_num1 > 0 && a_num2 > 0 && a_num3 > 0){
-		//	cout << "三種類が出てしまった " << endl;
+			cout << "三種類が出てしまった " << endl;
 		/*	cout << "a_num1:" << a_num1 << endl;
 			cout << "a_num2:" << a_num2 << endl;
 			cout << "a_num3:" << a_num3 << endl;
@@ -78,7 +78,17 @@ void algo(){
 			for(int i = 0 ; i < game_num ; i++ ){	
 			//	cout << "game_num "<<game_num << endl;
 				if(game_fig[i] == 1){
+					cout << i << "グーの勝ち" << endl;
+					myfile2 << i << "グーの勝ち" << endl;
 					remain++;
+				}else if(game_fig[i] == 2 ){
+					cout << i << "はチョキ " << endl;
+					myfile2<< i << "はチョキ " << endl;
+
+				}else if(game_fig[i] == 3){
+					cout << i << "はパー　" << endl;
+					myfile2<< i << "はパー　" << endl;
+
 				}
 					
 			}	
@@ -93,9 +103,20 @@ void algo(){
 
 			for(int i = 0 ; i < game_num ; i++ ){	
 				if(game_fig[i] == 3){
+					cout << i << "パーの勝ち" << endl;
+					myfile2 << i << "パーの勝ち" << endl;
+
 					remain++;
+				}else if(game_fig[i] == 1){
+					cout << i << "はグー" <<endl;
+					myfile2 << i << "はグー" << endl;
+
+				}else if(game_fig[i] == 2){
+					cout << i << "はチョキ" << endl;
+					myfile2 << i << "はチョキ" << endl;
+
+				}
 			}
-		}
 					count_num++;
 				//	game_num = remain;
 					myfile2 << count_num << "回目に勝負が決まりました" <<endl;
@@ -106,13 +127,25 @@ void algo(){
 		}else if(a_num2 > 0 && a_num3 > 0 && a_num1 == 0){
 			for( int i = 0; i  < game_num ; i++){	
 				if(game_fig[i] == 2){
+					cout << i << "チョキの勝ち" << endl;
+					myfile2 << i << "チョキの勝ち" << endl;
+
 					remain++;
+				}else if (game_fig[i] == 1){
+					cout << i << "はグー" << endl;
+					myfile2 << i << "はグー" << endl;
+
+				}else if (game_fig[i] == 3){
+					cout << i << "はパー" << endl;
+					myfile2<< i << "はパー" << endl;
+
 				}
 			}
 					count_num++;
 				//	game_num = remain;
 					myfile2 << count_num << "回目に勝負が決まりました。" <<endl;
 					myfile2 << remain << "人の勝者が残りました。"<<endl;					
+
 					//remain = 0;
 		}
 
@@ -134,22 +167,19 @@ void algo(){
 
 }
 
-int main ()
-{
+int main (){
 	time_t t_start, t_end;
 	t_start = time(NULL);
 	srand(0);
 	int count = 0;
-	if(game_num > 13)
-	{
-		do
-		{
+
+		do{
 			befor = game_num ;
 			algo();
 			count++;
 
-		}while(remain != 13);
-	}
+		}while(remain != 2);
+	
 
 	
 	 

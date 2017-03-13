@@ -1,0 +1,7928 @@
+number:1
+3	5
+4	2
+5	3
+5/t3
+3
+time:0ms
+number:2
+16	8
+45	3
+45/t3
+2
+time:0ms
+number:3
+13	6
+16	3
+16/t3
+2
+time:0ms
+number:4
+2	6
+6	3
+6/t3
+2
+time:0ms
+number:5
+1	6
+2	4
+4	3
+4/t3
+3
+time:0ms
+number:6
+11	5
+13	4
+14	2
+16	1
+22	2
+23	2
+25	2
+31	2
+36	3
+36/t3
+9
+time:0ms
+number:7
+15	4
+16	1
+19	2
+20	3
+20/t3
+4
+time:0ms
+number:8
+24	4
+25	3
+25/t3
+2
+time:0ms
+number:9
+42	7
+45	3
+45/t3
+2
+time:0ms
+number:10
+93	6
+94	3
+94/t3
+2
+time:0ms
+number:11
+9	4
+12	2
+13	1
+14	2
+15	3
+15/t3
+5
+time:0ms
+number:12
+13	6
+20	4
+21	1
+22	1
+24	1
+26	1
+28	1
+30	3
+30/t3
+8
+time:0ms
+number:13
+10	7
+13	4
+14	1
+15	2
+19	2
+20	3
+20/t3
+6
+time:0ms
+number:14
+2	3
+2/t3
+1
+time:0ms
+number:15
+1	5
+3	3
+3/t3
+2
+time:16ms
+number:16
+2	4
+4	2
+7	2
+9	2
+11	2
+16	1
+19	3
+19/t3
+7
+time:0ms
+number:17
+34	6
+35	3
+35/t3
+2
+time:0ms
+number:18
+10	4
+12	1
+14	2
+16	2
+17	1
+24	2
+25	1
+26	3
+26/t3
+8
+time:0ms
+number:19
+3	7
+12	2
+17	2
+20	3
+20/t3
+4
+time:0ms
+number:20
+14	7
+15	4
+17	2
+21	1
+22	1
+25	3
+25/t3
+6
+time:0ms
+number:21
+15	7
+27	3
+27/t3
+2
+time:0ms
+number:22
+4	5
+5	3
+5/t3
+2
+time:0ms
+number:23
+8	7
+12	5
+15	3
+15/t3
+3
+time:0ms
+number:24
+3	8
+7	3
+7/t3
+2
+time:0ms
+number:25
+7	5
+10	3
+10/t3
+2
+time:0ms
+number:26
+74	3
+74/t3
+1
+time:0ms
+number:27
+13	7
+15	2
+16	3
+16/t3
+3
+time:0ms
+number:28
+1	8
+8	5
+10	3
+10/t3
+3
+time:0ms
+number:29
+49	3
+49/t3
+1
+time:0ms
+number:30
+30	7
+32	3
+32/t3
+2
+time:0ms
+number:31
+15	6
+16	4
+17	2
+18	3
+18/t3
+4
+time:0ms
+number:32
+2	8
+4	4
+5	1
+9	2
+10	1
+11	3
+11/t3
+6
+time:0ms
+number:33
+36	2
+58	5
+59	4
+60	1
+61	2
+62	3
+62/t3
+6
+time:0ms
+number:34
+13	6
+16	4
+17	3
+17/t3
+3
+time:0ms
+number:35
+9	3
+9/t3
+1
+time:0ms
+number:36
+9	5
+12	2
+13	2
+14	4
+15	2
+16	2
+17	1
+19	1
+20	2
+26	3
+26/t3
+10
+time:0ms
+number:37
+13	5
+20	3
+20/t3
+2
+time:0ms
+number:38
+3	3
+3/t3
+1
+time:0ms
+number:39
+29	7
+34	4
+36	2
+41	2
+43	3
+43/t3
+5
+time:0ms
+number:40
+9	6
+10	3
+10/t3
+2
+time:0ms
+number:41
+8	9
+14	4
+17	2
+18	2
+19	1
+21	2
+22	1
+23	1
+24	2
+28	3
+28/t3
+10
+time:0ms
+number:42
+3	5
+6	3
+6/t3
+2
+time:0ms
+number:43
+55	4
+57	2
+60	3
+60/t3
+3
+time:0ms
+number:44
+9	6
+16	4
+18	2
+19	1
+20	2
+21	3
+21/t3
+6
+time:0ms
+number:45
+25	3
+25/t3
+1
+time:0ms
+number:46
+6	7
+8	4
+9	2
+10	2
+11	3
+11/t3
+5
+time:0ms
+number:47
+19	4
+20	3
+20/t3
+2
+time:0ms
+number:48
+9	7
+16	2
+25	3
+25/t3
+3
+time:0ms
+number:49
+9	6
+17	3
+17/t3
+2
+time:0ms
+number:50
+24	2
+35	5
+39	3
+39/t3
+3
+time:0ms
+number:51
+3	3
+3/t3
+1
+time:0ms
+number:52
+5	6
+7	2
+11	1
+15	5
+18	4
+19	2
+22	3
+22/t3
+7
+time:0ms
+number:53
+10	4
+12	1
+13	2
+14	1
+16	2
+18	3
+18/t3
+6
+time:0ms
+number:54
+4	5
+6	1
+7	2
+10	3
+10/t3
+4
+time:0ms
+number:55
+16	6
+19	2
+22	3
+22/t3
+3
+time:0ms
+number:56
+42	6
+46	4
+47	1
+48	2
+49	1
+50	1
+55	2
+56	2
+57	1
+60	3
+60/t3
+10
+time:0ms
+number:57
+1	6
+2	4
+4	3
+4/t3
+3
+time:0ms
+number:58
+47	4
+49	3
+49/t3
+2
+time:0ms
+number:59
+10	4
+12	2
+16	1
+17	2
+19	2
+21	2
+22	1
+23	2
+27	2
+28	1
+32	2
+33	2
+35	1
+36	3
+36/t3
+14
+time:0ms
+number:60
+4	4
+5	3
+5/t3
+2
+time:0ms
+number:61
+22	4
+25	2
+26	3
+26/t3
+3
+time:0ms
+number:62
+23	4
+24	2
+26	2
+27	3
+27/t3
+4
+time:0ms
+number:63
+25	4
+28	3
+28/t3
+2
+time:0ms
+number:64
+42	6
+46	3
+46/t3
+2
+time:0ms
+number:65
+29	5
+32	3
+32/t3
+2
+time:0ms
+number:66
+35	5
+36	3
+36/t3
+2
+time:0ms
+number:67
+1	3
+1/t3
+1
+time:0ms
+number:68
+1	5
+3	4
+4	2
+5	2
+7	2
+10	2
+11	3
+11/t3
+7
+time:0ms
+number:69
+23	5
+32	3
+32/t3
+2
+time:0ms
+number:70
+13	7
+14	3
+14/t3
+2
+time:0ms
+number:71
+31	4
+32	1
+33	2
+34	1
+35	1
+37	1
+39	1
+42	3
+42/t3
+8
+time:0ms
+number:72
+2	4
+4	2
+5	1
+7	1
+8	2
+9	3
+9/t3
+6
+time:0ms
+number:73
+12	4
+13	1
+15	2
+17	3
+17/t3
+4
+time:0ms
+number:74
+29	5
+32	3
+32/t3
+2
+time:0ms
+number:75
+25	5
+26	4
+29	3
+29/t3
+3
+time:0ms
+number:76
+1	5
+3	2
+7	1
+8	1
+10	2
+16	3
+16/t3
+6
+time:0ms
+number:77
+15	3
+15/t3
+1
+time:0ms
+number:78
+13	6
+15	2
+18	4
+19	1
+20	2
+21	1
+23	1
+24	2
+25	2
+26	3
+26/t3
+10
+time:0ms
+number:79
+4	5
+5	2
+6	4
+7	3
+7/t3
+4
+time:0ms
+number:80
+17	7
+27	3
+27/t3
+2
+time:0ms
+number:81
+30	5
+31	3
+31/t3
+2
+time:0ms
+number:82
+5	7
+12	3
+12/t3
+2
+time:0ms
+number:83
+50	6
+57	4
+58	3
+58/t3
+3
+time:0ms
+number:84
+12	7
+15	4
+17	1
+19	2
+22	1
+23	3
+23/t3
+6
+time:0ms
+number:85
+5	5
+7	2
+10	2
+12	2
+13	4
+16	2
+17	2
+18	3
+18/t3
+8
+time:0ms
+number:86
+9	5
+11	2
+13	2
+16	2
+17	3
+17/t3
+5
+time:0ms
+number:87
+29	5
+30	1
+31	4
+33	3
+33/t3
+4
+time:0ms
+number:88
+3	5
+6	3
+6/t3
+2
+time:0ms
+number:89
+1	7
+9	5
+10	3
+10/t3
+3
+time:0ms
+number:90
+3	6
+4	4
+5	1
+6	3
+6/t3
+4
+time:0ms
+number:91
+5	5
+7	3
+7/t3
+2
+time:0ms
+number:92
+48	6
+51	2
+53	2
+55	4
+56	2
+57	1
+58	3
+58/t3
+7
+time:0ms
+number:93
+33	8
+49	3
+49/t3
+2
+time:0ms
+number:94
+40	5
+45	1
+48	2
+54	3
+54/t3
+4
+time:0ms
+number:95
+16	7
+20	5
+29	2
+32	2
+34	3
+34/t3
+5
+time:0ms
+number:96
+3	7
+5	5
+9	1
+13	3
+13/t3
+4
+time:0ms
+number:97
+32	2
+57	6
+59	2
+63	2
+74	5
+75	3
+75/t3
+6
+time:0ms
+number:98
+4	5
+5	2
+12	3
+12/t3
+3
+time:0ms
+number:99
+12	5
+14	1
+15	3
+15/t3
+3
+time:0ms
+number:100
+35	5
+37	1
+40	3
+40/t3
+3
+time:0ms
+number:101
+2	3
+2/t3
+1
+time:0ms
+number:102
+14	3
+14/t3
+1
+time:0ms
+number:103
+35	6
+37	4
+39	3
+39/t3
+3
+time:0ms
+number:104
+3	5
+10	3
+10/t3
+2
+time:0ms
+number:105
+1	5
+2	4
+4	2
+5	2
+6	1
+7	3
+7/t3
+6
+time:0ms
+number:106
+138	7
+155	5
+156	3
+156/t3
+3
+time:0ms
+number:107
+8	6
+12	2
+13	3
+13/t3
+3
+time:0ms
+number:108
+14	4
+15	3
+15/t3
+2
+time:0ms
+number:109
+33	3
+33/t3
+1
+time:0ms
+number:110
+36	5
+37	1
+40	3
+40/t3
+3
+time:0ms
+number:111
+17	5
+18	1
+20	2
+21	3
+21/t3
+4
+time:0ms
+number:112
+35	5
+36	2
+37	1
+40	3
+40/t3
+4
+time:0ms
+number:113
+2	4
+5	1
+8	1
+9	2
+10	3
+10/t3
+5
+time:0ms
+number:114
+40	7
+48	3
+48/t3
+2
+time:0ms
+number:115
+13	3
+13/t3
+1
+time:0ms
+number:116
+6	7
+16	5
+17	2
+19	1
+22	3
+22/t3
+5
+time:0ms
+number:117
+46	5
+48	1
+51	4
+52	3
+52/t3
+4
+time:0ms
+number:118
+31	5
+32	3
+32/t3
+2
+time:0ms
+number:119
+11	8
+24	3
+24/t3
+2
+time:0ms
+number:120
+7	3
+7/t3
+1
+time:0ms
+number:121
+33	7
+40	2
+41	3
+41/t3
+3
+time:0ms
+number:122
+48	5
+55	4
+56	1
+59	2
+60	3
+60/t3
+5
+time:0ms
+number:123
+7	3
+7/t3
+1
+time:0ms
+number:124
+88	4
+90	2
+92	3
+92/t3
+3
+time:0ms
+number:125
+5	7
+6	3
+6/t3
+2
+time:0ms
+number:126
+1	6
+6	2
+7	2
+12	3
+12/t3
+4
+time:0ms
+number:127
+16	4
+17	1
+18	1
+19	1
+21	3
+21/t3
+5
+time:0ms
+number:128
+17	3
+17/t3
+1
+time:0ms
+number:129
+4	8
+20	2
+23	5
+26	1
+27	2
+29	1
+35	2
+36	3
+36/t3
+8
+time:0ms
+number:130
+3	7
+10	2
+11	2
+12	4
+14	2
+19	3
+19/t3
+6
+time:0ms
+number:131
+10	5
+11	2
+12	4
+14	2
+15	2
+17	2
+19	2
+20	1
+21	1
+23	2
+25	3
+25/t3
+11
+time:0ms
+number:132
+74	6
+86	3
+86/t3
+2
+time:0ms
+number:133
+27	6
+32	5
+34	1
+43	1
+46	3
+46/t3
+5
+time:0ms
+number:134
+17	6
+19	5
+31	2
+32	1
+35	4
+36	3
+36/t3
+6
+time:0ms
+number:135
+64	3
+64/t3
+1
+time:0ms
+number:136
+12	6
+13	4
+14	2
+15	1
+16	1
+21	3
+21/t3
+6
+time:0ms
+number:137
+16	7
+21	4
+23	2
+24	1
+25	2
+26	2
+30	1
+31	2
+34	3
+34/t3
+9
+time:0ms
+number:138
+10	6
+12	2
+13	3
+13/t3
+3
+time:0ms
+number:139
+2	3
+2/t3
+1
+time:0ms
+number:140
+12	3
+12/t3
+1
+time:0ms
+number:141
+4	3
+4/t3
+1
+time:0ms
+number:142
+7	7
+21	1
+39	4
+40	2
+41	1
+42	1
+44	1
+45	2
+49	2
+50	2
+52	3
+52/t3
+11
+time:16ms
+number:143
+7	4
+9	1
+22	3
+22/t3
+3
+time:0ms
+number:144
+39	5
+41	2
+43	1
+44	2
+45	3
+45/t3
+5
+time:0ms
+number:145
+23	4
+24	2
+25	2
+28	3
+28/t3
+4
+time:0ms
+number:146
+16	6
+20	2
+29	4
+30	3
+30/t3
+4
+time:0ms
+number:147
+13	7
+16	3
+16/t3
+2
+time:0ms
+number:148
+41	3
+41/t3
+1
+time:0ms
+number:149
+7	4
+8	2
+9	2
+12	2
+13	2
+17	2
+18	1
+19	2
+21	3
+21/t3
+9
+time:0ms
+number:150
+3	3
+3/t3
+1
+time:0ms
+number:151
+46	4
+49	2
+51	1
+53	2
+56	3
+56/t3
+5
+time:0ms
+number:152
+2	5
+5	4
+6	2
+8	3
+8/t3
+4
+time:0ms
+number:153
+4	3
+4/t3
+1
+time:0ms
+number:154
+3	7
+5	4
+6	1
+7	3
+7/t3
+4
+time:0ms
+number:155
+16	5
+19	2
+20	1
+23	1
+24	3
+24/t3
+5
+time:0ms
+number:156
+5	5
+8	4
+9	2
+11	1
+12	3
+12/t3
+5
+time:0ms
+number:157
+9	5
+10	3
+10/t3
+2
+time:0ms
+number:158
+43	6
+50	1
+52	4
+53	1
+54	2
+55	2
+56	2
+59	3
+59/t3
+8
+time:0ms
+number:159
+12	6
+13	3
+13/t3
+2
+time:0ms
+number:160
+23	6
+30	3
+30/t3
+2
+time:0ms
+number:161
+15	4
+16	2
+18	3
+18/t3
+3
+time:0ms
+number:162
+32	5
+35	2
+38	2
+40	2
+41	2
+44	2
+47	4
+48	3
+48/t3
+8
+time:0ms
+number:163
+13	4
+14	2
+15	1
+16	2
+17	2
+18	3
+18/t3
+6
+time:0ms
+number:164
+9	3
+9/t3
+1
+time:0ms
+number:165
+34	8
+39	4
+41	2
+43	1
+45	3
+45/t3
+5
+time:0ms
+number:166
+15	4
+16	3
+16/t3
+2
+time:0ms
+number:167
+10	6
+13	3
+13/t3
+2
+time:0ms
+number:168
+1	6
+15	2
+22	3
+22/t3
+3
+time:0ms
+number:169
+3	4
+5	2
+6	2
+7	1
+10	2
+13	3
+13/t3
+6
+time:0ms
+number:170
+21	4
+24	1
+25	3
+25/t3
+3
+time:0ms
+number:171
+2	7
+17	5
+22	1
+24	2
+25	3
+25/t3
+5
+time:0ms
+number:172
+4	4
+7	3
+7/t3
+2
+time:0ms
+number:173
+35	1
+54	4
+59	2
+61	2
+62	3
+62/t3
+5
+time:0ms
+number:174
+18	7
+23	1
+24	4
+25	2
+28	2
+29	1
+31	3
+31/t3
+7
+time:0ms
+number:175
+13	2
+15	8
+29	3
+29/t3
+3
+time:0ms
+number:176
+40	4
+41	3
+41/t3
+2
+time:0ms
+number:177
+25	4
+26	2
+27	2
+28	2
+30	3
+30/t3
+5
+time:0ms
+number:178
+7	3
+7/t3
+1
+time:0ms
+number:179
+1	6
+2	4
+3	2
+4	2
+7	1
+8	2
+9	2
+10	2
+12	3
+12/t3
+9
+time:0ms
+number:180
+30	1
+45	4
+47	2
+49	3
+49/t3
+4
+time:0ms
+number:181
+2	5
+4	4
+6	2
+16	3
+16/t3
+4
+time:0ms
+number:182
+17	7
+18	3
+18/t3
+2
+time:0ms
+number:183
+19	6
+21	4
+22	2
+26	2
+29	3
+29/t3
+5
+time:0ms
+number:184
+50	8
+64	5
+69	2
+71	4
+72	3
+72/t3
+5
+time:0ms
+number:185
+8	4
+9	3
+9/t3
+2
+time:0ms
+number:186
+25	6
+32	4
+34	1
+36	1
+37	2
+38	3
+38/t3
+6
+time:0ms
+number:187
+14	5
+16	1
+18	3
+18/t3
+3
+time:0ms
+number:188
+19	3
+19/t3
+1
+time:0ms
+number:189
+46	6
+49	1
+52	4
+56	2
+57	3
+57/t3
+5
+time:0ms
+number:190
+7	6
+8	4
+13	2
+14	1
+15	2
+16	3
+16/t3
+6
+time:0ms
+number:191
+16	6
+21	2
+29	2
+30	5
+32	2
+35	2
+39	2
+41	3
+41/t3
+8
+time:0ms
+number:192
+3	5
+4	2
+5	2
+6	3
+6/t3
+4
+time:0ms
+number:193
+15	7
+26	1
+29	4
+33	3
+33/t3
+4
+time:0ms
+number:194
+22	6
+36	4
+37	2
+38	3
+38/t3
+4
+time:0ms
+number:195
+23	2
+44	5
+52	2
+55	2
+57	2
+61	2
+62	2
+66	3
+66/t3
+8
+time:0ms
+number:196
+77	4
+79	2
+80	2
+83	1
+84	3
+84/t3
+5
+time:0ms
+number:197
+81	6
+85	3
+85/t3
+2
+time:0ms
+number:198
+3	5
+6	2
+8	3
+8/t3
+3
+time:0ms
+number:199
+37	4
+41	3
+41/t3
+2
+time:0ms
+number:200
+44	6
+51	3
+51/t3
+2
+time:0ms
+number:201
+25	3
+25/t3
+1
+time:0ms
+number:202
+2	6
+9	2
+11	3
+11/t3
+3
+time:0ms
+number:203
+5	7
+14	2
+15	3
+15/t3
+3
+time:0ms
+number:204
+44	5
+45	3
+45/t3
+2
+time:0ms
+number:205
+43	5
+45	1
+49	3
+49/t3
+3
+time:0ms
+number:206
+8	6
+12	4
+14	3
+14/t3
+3
+time:0ms
+number:207
+8	6
+12	3
+12/t3
+2
+time:0ms
+number:208
+4	5
+7	4
+8	2
+12	1
+14	3
+14/t3
+5
+time:0ms
+number:209
+8	7
+9	2
+11	5
+13	2
+17	1
+20	2
+21	3
+21/t3
+7
+time:0ms
+number:210
+17	5
+18	4
+20	2
+23	1
+24	3
+24/t3
+5
+time:0ms
+number:211
+10	4
+12	2
+13	1
+14	2
+15	3
+15/t3
+5
+time:0ms
+number:212
+38	4
+39	1
+40	2
+44	3
+44/t3
+4
+time:0ms
+number:213
+4	6
+7	5
+9	2
+10	3
+10/t3
+4
+time:0ms
+number:214
+32	6
+33	3
+33/t3
+2
+time:0ms
+number:215
+15	7
+18	4
+19	3
+19/t3
+3
+time:0ms
+number:216
+18	2
+30	5
+32	3
+32/t3
+3
+time:0ms
+number:217
+24	6
+28	2
+30	2
+34	4
+35	1
+37	3
+37/t3
+6
+time:0ms
+number:218
+48	5
+50	4
+51	1
+53	3
+53/t3
+4
+time:0ms
+number:219
+32	2
+40	5
+42	2
+43	2
+44	4
+46	3
+46/t3
+6
+time:0ms
+number:220
+7	9
+19	5
+20	3
+20/t3
+3
+time:0ms
+number:221
+11	7
+20	1
+29	4
+31	3
+31/t3
+4
+time:0ms
+number:222
+26	6
+29	4
+32	3
+32/t3
+3
+time:0ms
+number:223
+18	8
+30	5
+33	3
+33/t3
+3
+time:0ms
+number:224
+13	7
+14	5
+16	3
+16/t3
+3
+time:0ms
+number:225
+6	3
+6/t3
+1
+time:0ms
+number:226
+16	6
+25	4
+28	3
+28/t3
+3
+time:0ms
+number:227
+34	4
+35	2
+36	1
+38	2
+39	3
+39/t3
+5
+time:0ms
+number:228
+21	6
+25	3
+25/t3
+2
+time:0ms
+number:229
+10	6
+13	5
+14	3
+14/t3
+3
+time:0ms
+number:230
+35	6
+39	3
+39/t3
+2
+time:0ms
+number:231
+29	4
+31	2
+33	2
+35	3
+35/t3
+4
+time:0ms
+number:232
+41	2
+45	5
+47	1
+50	2
+52	1
+53	2
+55	3
+55/t3
+7
+time:0ms
+number:233
+48	4
+49	2
+50	2
+51	2
+54	3
+54/t3
+5
+time:0ms
+number:234
+16	7
+23	4
+24	1
+25	2
+26	3
+26/t3
+5
+time:0ms
+number:235
+2	7
+4	4
+5	3
+5/t3
+3
+time:0ms
+number:236
+34	4
+35	2
+36	2
+37	3
+37/t3
+4
+time:0ms
+number:237
+24	7
+31	3
+31/t3
+2
+time:0ms
+number:238
+50	9
+55	2
+63	4
+64	3
+64/t3
+4
+time:0ms
+number:239
+24	7
+43	3
+43/t3
+2
+time:0ms
+number:240
+48	5
+49	2
+50	1
+52	2
+55	1
+58	4
+59	1
+63	3
+63/t3
+8
+time:0ms
+number:241
+7	8
+27	4
+28	1
+30	1
+31	1
+35	2
+38	2
+39	3
+39/t3
+8
+time:0ms
+number:242
+10	7
+12	3
+12/t3
+2
+time:0ms
+number:243
+27	6
+28	3
+28/t3
+2
+time:0ms
+number:244
+1	5
+3	2
+8	4
+12	3
+12/t3
+4
+time:0ms
+number:245
+17	5
+19	3
+19/t3
+2
+time:0ms
+number:246
+1	5
+3	1
+6	2
+7	1
+8	4
+10	1
+12	3
+12/t3
+7
+time:0ms
+number:247
+6	5
+7	3
+7/t3
+2
+time:0ms
+number:248
+10	5
+14	3
+14/t3
+2
+time:0ms
+number:249
+7	8
+15	4
+17	1
+18	3
+18/t3
+4
+time:0ms
+number:250
+56	7
+61	5
+63	4
+66	2
+67	2
+68	3
+68/t3
+6
+time:0ms
+number:251
+16	4
+17	2
+18	1
+19	3
+19/t3
+4
+time:0ms
+number:252
+29	6
+33	4
+36	1
+38	3
+38/t3
+4
+time:0ms
+number:253
+4	4
+7	1
+9	3
+9/t3
+3
+time:0ms
+number:254
+1	4
+3	2
+5	2
+6	3
+6/t3
+4
+time:0ms
+number:255
+8	6
+13	4
+16	2
+17	3
+17/t3
+4
+time:0ms
+number:256
+11	5
+14	2
+16	4
+17	1
+19	3
+19/t3
+5
+time:0ms
+number:257
+10	5
+13	3
+13/t3
+2
+time:0ms
+number:258
+12	3
+12/t3
+1
+time:0ms
+number:259
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:260
+58	7
+67	5
+70	4
+71	1
+72	1
+73	3
+73/t3
+6
+time:0ms
+number:261
+9	5
+16	4
+17	2
+19	3
+19/t3
+4
+time:0ms
+number:262
+90	3
+90/t3
+1
+time:0ms
+number:263
+4	7
+11	3
+11/t3
+2
+time:0ms
+number:264
+15	2
+31	9
+40	8
+88	3
+88/t3
+4
+time:0ms
+number:265
+34	6
+38	2
+42	2
+44	3
+44/t3
+4
+time:0ms
+number:266
+43	5
+44	3
+44/t3
+2
+time:0ms
+number:267
+2	4
+3	1
+4	1
+7	1
+8	1
+10	2
+11	1
+13	2
+14	1
+16	2
+17	3
+17/t3
+11
+time:0ms
+number:268
+2	7
+6	4
+7	2
+11	2
+12	2
+13	1
+14	1
+16	3
+16/t3
+8
+time:0ms
+number:269
+74	8
+76	1
+111	3
+111/t3
+3
+time:0ms
+number:270
+32	5
+33	3
+33/t3
+2
+time:0ms
+number:271
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:272
+5	6
+8	4
+9	2
+10	2
+12	2
+14	1
+15	3
+15/t3
+7
+time:0ms
+number:273
+28	7
+29	3
+29/t3
+2
+time:0ms
+number:274
+6	6
+13	3
+13/t3
+2
+time:0ms
+number:275
+9	6
+13	2
+14	2
+19	2
+20	3
+20/t3
+5
+time:0ms
+number:276
+3	1
+11	4
+12	1
+14	2
+15	2
+16	1
+17	2
+18	3
+18/t3
+8
+time:0ms
+number:277
+15	3
+15/t3
+1
+time:0ms
+number:278
+8	3
+8/t3
+1
+time:0ms
+number:279
+4	5
+6	3
+6/t3
+2
+time:0ms
+number:280
+6	6
+15	2
+25	1
+27	2
+29	4
+30	2
+31	2
+32	2
+33	3
+33/t3
+9
+time:0ms
+number:281
+46	5
+47	2
+48	4
+50	2
+52	2
+53	1
+54	2
+57	1
+58	3
+58/t3
+9
+time:0ms
+number:282
+7	6
+9	3
+9/t3
+2
+time:0ms
+number:283
+22	6
+30	3
+30/t3
+2
+time:0ms
+number:284
+10	9
+17	4
+18	1
+20	3
+20/t3
+4
+time:16ms
+number:285
+2	5
+5	3
+5/t3
+2
+time:0ms
+number:286
+36	4
+38	1
+41	1
+42	3
+42/t3
+4
+time:0ms
+number:287
+40	5
+41	3
+41/t3
+2
+time:0ms
+number:288
+11	6
+14	2
+15	1
+21	3
+21/t3
+4
+time:0ms
+number:289
+6	3
+6/t3
+1
+time:0ms
+number:290
+32	6
+36	3
+36/t3
+2
+time:0ms
+number:291
+6	6
+13	4
+14	1
+19	2
+20	3
+20/t3
+5
+time:0ms
+number:292
+13	3
+13/t3
+1
+time:0ms
+number:293
+6	7
+22	4
+25	1
+26	1
+27	3
+27/t3
+5
+time:0ms
+number:294
+16	5
+19	2
+22	3
+22/t3
+3
+time:0ms
+number:295
+30	6
+31	5
+32	4
+35	1
+40	1
+43	1
+44	2
+46	2
+47	2
+49	3
+49/t3
+10
+time:0ms
+number:296
+3	8
+11	4
+12	1
+14	3
+14/t3
+4
+time:0ms
+number:297
+42	4
+45	1
+46	2
+48	2
+49	3
+49/t3
+5
+time:0ms
+number:298
+11	5
+15	2
+16	2
+24	2
+27	4
+28	2
+31	3
+31/t3
+7
+time:0ms
+number:299
+5	6
+14	4
+15	1
+16	2
+17	3
+17/t3
+5
+time:0ms
+number:300
+43	7
+44	4
+45	2
+46	3
+46/t3
+4
+time:0ms
+number:301
+7	5
+9	3
+9/t3
+2
+time:0ms
+number:302
+44	5
+47	1
+48	1
+52	2
+55	3
+55/t3
+5
+time:0ms
+number:303
+14	5
+15	3
+15/t3
+2
+time:0ms
+number:304
+74	8
+76	4
+79	3
+79/t3
+3
+time:0ms
+number:305
+11	4
+13	2
+15	1
+20	2
+21	3
+21/t3
+5
+time:0ms
+number:306
+25	5
+32	3
+32/t3
+2
+time:0ms
+number:307
+61	6
+64	2
+65	4
+66	2
+69	3
+69/t3
+5
+time:0ms
+number:308
+3	6
+6	3
+6/t3
+2
+time:0ms
+number:309
+8	6
+14	4
+16	3
+16/t3
+3
+time:0ms
+number:310
+31	5
+32	2
+35	4
+37	1
+38	2
+39	1
+40	3
+40/t3
+7
+time:0ms
+number:311
+9	5
+20	3
+20/t3
+2
+time:0ms
+number:312
+9	5
+12	3
+12/t3
+2
+time:0ms
+number:313
+11	5
+12	2
+13	4
+14	3
+14/t3
+4
+time:0ms
+number:314
+9	5
+10	3
+10/t3
+2
+time:0ms
+number:315
+12	6
+16	5
+19	1
+22	4
+23	2
+24	3
+24/t3
+6
+time:0ms
+number:316
+3	3
+3/t3
+1
+time:0ms
+number:317
+22	2
+39	5
+46	2
+47	3
+47/t3
+4
+time:0ms
+number:318
+14	7
+27	3
+27/t3
+2
+time:0ms
+number:319
+9	7
+15	5
+20	1
+22	2
+23	2
+27	1
+28	4
+29	2
+31	1
+32	2
+33	3
+33/t3
+11
+time:0ms
+number:320
+33	6
+39	5
+40	2
+41	3
+41/t3
+4
+time:0ms
+number:321
+7	5
+8	3
+8/t3
+2
+time:0ms
+number:322
+20	8
+23	5
+25	4
+26	1
+27	1
+28	1
+29	1
+30	3
+30/t3
+8
+time:0ms
+number:323
+1	6
+2	1
+3	3
+3/t3
+3
+time:0ms
+number:324
+19	6
+21	3
+21/t3
+2
+time:0ms
+number:325
+26	3
+26/t3
+1
+time:0ms
+number:326
+35	6
+38	5
+39	1
+40	1
+43	3
+43/t3
+5
+time:16ms
+number:327
+12	4
+13	3
+13/t3
+2
+time:0ms
+number:328
+9	8
+14	2
+24	2
+25	3
+25/t3
+4
+time:0ms
+number:329
+14	7
+16	2
+23	2
+29	6
+30	3
+30/t3
+5
+time:0ms
+number:330
+19	3
+19/t3
+1
+time:0ms
+number:331
+7	5
+9	3
+9/t3
+2
+time:0ms
+number:332
+12	4
+14	1
+16	3
+16/t3
+3
+time:0ms
+number:333
+5	2
+10	4
+11	1
+12	3
+12/t3
+4
+time:0ms
+number:334
+5	6
+17	2
+29	3
+29/t3
+3
+time:0ms
+number:335
+20	5
+21	1
+23	2
+24	2
+25	2
+27	2
+28	3
+28/t3
+7
+time:0ms
+number:336
+40	6
+43	3
+43/t3
+2
+time:0ms
+number:337
+48	6
+49	4
+50	2
+52	1
+53	1
+55	2
+57	2
+58	2
+60	1
+61	3
+61/t3
+10
+time:0ms
+number:338
+5	6
+6	2
+8	2
+10	4
+12	2
+13	2
+15	2
+18	2
+20	2
+21	3
+21/t3
+10
+time:0ms
+number:339
+6	4
+7	3
+7/t3
+2
+time:0ms
+number:340
+10	6
+12	5
+13	3
+13/t3
+3
+time:0ms
+number:341
+3	3
+3/t3
+1
+time:0ms
+number:342
+8	4
+10	1
+11	2
+12	3
+12/t3
+4
+time:0ms
+number:343
+24	5
+27	3
+27/t3
+2
+time:0ms
+number:344
+10	7
+13	2
+20	3
+20/t3
+3
+time:0ms
+number:345
+25	5
+26	3
+26/t3
+2
+time:0ms
+number:346
+13	5
+14	3
+14/t3
+2
+time:0ms
+number:347
+9	7
+16	3
+16/t3
+2
+time:0ms
+number:348
+49	4
+51	2
+53	2
+55	2
+57	2
+58	3
+58/t3
+6
+time:0ms
+number:349
+11	6
+17	1
+18	2
+19	3
+19/t3
+4
+time:0ms
+number:350
+15	5
+16	2
+17	3
+17/t3
+3
+time:0ms
+number:351
+14	6
+15	4
+19	1
+21	2
+22	2
+23	1
+24	2
+26	1
+28	3
+28/t3
+9
+time:0ms
+number:352
+11	4
+14	3
+14/t3
+2
+time:0ms
+number:353
+3	7
+5	3
+5/t3
+2
+time:0ms
+number:354
+16	6
+20	2
+22	4
+24	2
+25	2
+26	2
+30	2
+31	3
+31/t3
+8
+time:0ms
+number:355
+6	2
+7	4
+8	2
+10	3
+10/t3
+4
+time:0ms
+number:356
+2	5
+3	2
+6	3
+6/t3
+3
+time:0ms
+number:357
+20	5
+21	3
+21/t3
+2
+time:0ms
+number:358
+4	5
+10	2
+13	2
+14	4
+15	3
+15/t3
+5
+time:0ms
+number:359
+23	3
+23/t3
+1
+time:15ms
+number:360
+28	3
+28/t3
+1
+time:0ms
+number:361
+33	6
+34	1
+40	4
+41	1
+42	3
+42/t3
+5
+time:0ms
+number:362
+14	6
+18	3
+18/t3
+2
+time:0ms
+number:363
+4	4
+6	1
+7	1
+8	3
+8/t3
+4
+time:0ms
+number:364
+9	3
+9/t3
+1
+time:0ms
+number:365
+25	4
+26	2
+27	3
+27/t3
+3
+time:0ms
+number:366
+17	3
+17/t3
+1
+time:0ms
+number:367
+9	7
+11	4
+12	2
+14	1
+15	3
+15/t3
+5
+time:0ms
+number:368
+14	4
+15	3
+15/t3
+2
+time:0ms
+number:369
+2	3
+2/t3
+1
+time:0ms
+number:370
+47	7
+53	3
+53/t3
+2
+time:0ms
+number:371
+62	3
+62/t3
+1
+time:0ms
+number:372
+15	3
+15/t3
+1
+time:0ms
+number:373
+22	5
+23	4
+27	2
+30	1
+32	2
+33	3
+33/t3
+6
+time:0ms
+number:374
+8	7
+13	4
+15	1
+16	3
+16/t3
+4
+time:0ms
+number:375
+21	4
+22	2
+26	3
+26/t3
+3
+time:0ms
+number:376
+3	3
+3/t3
+1
+time:0ms
+number:377
+5	4
+6	2
+8	1
+10	2
+12	2
+14	2
+15	2
+17	2
+18	1
+19	3
+19/t3
+10
+time:0ms
+number:378
+5	3
+5/t3
+1
+time:0ms
+number:379
+18	5
+22	2
+25	2
+27	3
+27/t3
+4
+time:0ms
+number:380
+25	3
+25/t3
+1
+time:0ms
+number:381
+5	3
+5/t3
+1
+time:0ms
+number:382
+17	6
+20	2
+23	4
+26	1
+28	3
+28/t3
+5
+time:0ms
+number:383
+2	7
+8	5
+20	3
+20/t3
+3
+time:0ms
+number:384
+33	5
+38	3
+38/t3
+2
+time:0ms
+number:385
+18	4
+20	2
+21	2
+22	2
+23	2
+26	2
+27	2
+28	2
+29	2
+30	2
+34	1
+35	1
+36	1
+37	1
+40	2
+41	3
+41/t3
+16
+time:0ms
+number:386
+5	6
+7	4
+9	2
+10	2
+11	1
+13	2
+14	3
+14/t3
+7
+time:0ms
+number:387
+5	4
+8	1
+9	1
+10	3
+10/t3
+4
+time:0ms
+number:388
+73	7
+74	5
+75	1
+78	2
+79	3
+79/t3
+5
+time:0ms
+number:389
+4	5
+5	2
+9	4
+11	1
+12	3
+12/t3
+5
+time:0ms
+number:390
+3	4
+5	1
+6	1
+9	3
+9/t3
+4
+time:0ms
+number:391
+7	2
+29	5
+30	4
+32	2
+34	2
+35	1
+36	3
+36/t3
+7
+time:0ms
+number:392
+14	3
+14/t3
+1
+time:0ms
+number:393
+5	5
+10	3
+10/t3
+2
+time:0ms
+number:394
+6	4
+7	2
+8	2
+11	1
+13	3
+13/t3
+5
+time:0ms
+number:395
+14	6
+15	3
+15/t3
+2
+time:0ms
+number:396
+2	4
+3	2
+5	3
+5/t3
+3
+time:0ms
+number:397
+2	3
+2/t3
+1
+time:0ms
+number:398
+53	5
+55	2
+57	2
+58	2
+64	3
+64/t3
+5
+time:0ms
+number:399
+4	4
+6	2
+7	3
+7/t3
+3
+time:0ms
+number:400
+50	6
+62	3
+62/t3
+2
+time:0ms
+number:401
+8	2
+15	5
+17	3
+17/t3
+3
+time:0ms
+number:402
+9	5
+12	2
+22	4
+24	1
+25	3
+25/t3
+5
+time:0ms
+number:403
+13	4
+14	1
+22	1
+23	1
+27	1
+29	1
+30	3
+30/t3
+7
+time:0ms
+number:404
+3	6
+6	1
+7	4
+9	3
+9/t3
+4
+time:0ms
+number:405
+62	5
+63	2
+66	1
+69	2
+72	3
+72/t3
+5
+time:0ms
+number:406
+19	3
+19/t3
+1
+time:0ms
+number:407
+17	6
+19	4
+20	2
+21	1
+22	1
+27	2
+32	1
+33	2
+37	2
+43	2
+44	1
+45	1
+46	1
+49	2
+52	2
+55	1
+56	2
+59	2
+60	2
+62	2
+71	3
+71/t3
+21
+time:0ms
+number:408
+1	4
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:409
+25	5
+26	3
+26/t3
+2
+time:0ms
+number:410
+17	4
+20	1
+22	1
+24	2
+26	3
+26/t3
+5
+time:0ms
+number:411
+10	4
+12	1
+14	2
+18	3
+18/t3
+4
+time:0ms
+number:412
+17	7
+25	4
+26	3
+26/t3
+3
+time:0ms
+number:413
+36	5
+37	2
+38	1
+39	2
+42	3
+42/t3
+5
+time:0ms
+number:414
+19	5
+24	3
+24/t3
+2
+time:0ms
+number:415
+24	4
+25	1
+26	3
+26/t3
+3
+time:0ms
+number:416
+46	7
+60	2
+79	4
+80	1
+83	3
+83/t3
+5
+time:0ms
+number:417
+2	4
+9	1
+10	1
+11	3
+11/t3
+4
+time:0ms
+number:418
+54	4
+59	3
+59/t3
+2
+time:0ms
+number:419
+21	3
+21/t3
+1
+time:0ms
+number:420
+26	5
+29	4
+31	3
+31/t3
+3
+time:0ms
+number:421
+6	7
+12	4
+17	2
+18	2
+19	3
+19/t3
+5
+time:0ms
+number:422
+19	3
+19/t3
+1
+time:0ms
+number:423
+28	7
+32	2
+33	4
+34	1
+35	2
+36	3
+36/t3
+6
+time:0ms
+number:424
+11	6
+32	5
+33	4
+34	3
+34/t3
+4
+time:0ms
+number:425
+8	5
+10	3
+10/t3
+2
+time:0ms
+number:426
+21	7
+22	4
+23	2
+25	3
+25/t3
+4
+time:0ms
+number:427
+8	7
+11	3
+11/t3
+2
+time:0ms
+number:428
+23	5
+25	2
+26	4
+28	1
+29	2
+31	3
+31/t3
+6
+time:0ms
+number:429
+72	4
+75	2
+78	3
+78/t3
+3
+time:0ms
+number:430
+9	4
+11	2
+12	2
+13	2
+15	2
+18	3
+18/t3
+6
+time:0ms
+number:431
+6	4
+7	2
+8	1
+10	2
+13	1
+14	2
+15	3
+15/t3
+7
+time:0ms
+number:432
+1	2
+8	3
+8/t3
+2
+time:0ms
+number:433
+8	8
+20	5
+22	4
+24	1
+27	3
+27/t3
+5
+time:0ms
+number:434
+8	6
+10	4
+11	1
+12	3
+12/t3
+4
+time:0ms
+number:435
+3	5
+7	2
+10	3
+10/t3
+3
+time:0ms
+number:436
+27	5
+30	4
+31	2
+33	2
+34	2
+35	1
+38	3
+38/t3
+7
+time:0ms
+number:437
+28	2
+136	5
+138	3
+138/t3
+3
+time:0ms
+number:438
+8	4
+10	1
+11	3
+11/t3
+3
+time:0ms
+number:439
+26	4
+27	1
+28	2
+30	2
+33	1
+34	1
+35	1
+36	2
+38	2
+42	3
+42/t3
+10
+time:0ms
+number:440
+14	5
+18	3
+18/t3
+2
+time:0ms
+number:441
+11	5
+12	2
+13	2
+14	3
+14/t3
+4
+time:0ms
+number:442
+12	5
+15	3
+15/t3
+2
+time:0ms
+number:443
+19	4
+21	2
+24	1
+27	2
+28	2
+29	2
+31	2
+32	3
+32/t3
+8
+time:0ms
+number:444
+1	6
+18	2
+21	2
+22	3
+22/t3
+4
+time:0ms
+number:445
+2	4
+4	3
+4/t3
+2
+time:0ms
+number:446
+5	5
+8	4
+12	3
+12/t3
+3
+time:0ms
+number:447
+3	7
+5	5
+6	2
+8	2
+9	4
+14	3
+14/t3
+6
+time:0ms
+number:448
+7	7
+9	3
+9/t3
+2
+time:0ms
+number:449
+24	5
+25	3
+25/t3
+2
+time:0ms
+number:450
+70	5
+74	2
+78	3
+78/t3
+3
+time:0ms
+number:451
+13	6
+18	4
+20	3
+20/t3
+3
+time:0ms
+number:452
+124	6
+126	3
+126/t3
+2
+time:0ms
+number:453
+3	8
+5	4
+6	2
+7	1
+8	2
+12	2
+14	2
+17	2
+18	2
+19	2
+21	3
+21/t3
+11
+time:0ms
+number:454
+19	7
+20	3
+20/t3
+2
+time:0ms
+number:455
+7	3
+7/t3
+1
+time:0ms
+number:456
+18	6
+20	3
+20/t3
+2
+time:16ms
+number:457
+1	3
+1/t3
+1
+time:0ms
+number:458
+19	6
+20	2
+22	4
+25	1
+26	1
+28	2
+29	3
+29/t3
+7
+time:0ms
+number:459
+23	2
+24	5
+27	2
+30	2
+31	4
+32	2
+33	3
+33/t3
+7
+time:0ms
+number:460
+41	6
+42	1
+46	1
+48	5
+49	4
+50	2
+51	1
+52	2
+53	3
+53/t3
+9
+time:0ms
+number:461
+3	4
+4	2
+5	1
+6	2
+7	2
+8	2
+11	1
+13	1
+14	1
+18	2
+19	3
+19/t3
+11
+time:0ms
+number:462
+21	3
+21/t3
+1
+time:0ms
+number:463
+43	5
+45	4
+50	1
+51	1
+54	2
+56	1
+58	3
+58/t3
+7
+time:0ms
+number:464
+22	3
+22/t3
+1
+time:0ms
+number:465
+49	7
+54	4
+55	2
+57	1
+58	1
+59	2
+61	3
+61/t3
+7
+time:0ms
+number:466
+7	5
+16	1
+22	2
+23	3
+23/t3
+4
+time:0ms
+number:467
+46	6
+48	2
+53	2
+55	4
+57	1
+58	2
+59	2
+61	1
+62	3
+62/t3
+9
+time:0ms
+number:468
+8	7
+16	2
+28	3
+28/t3
+3
+time:0ms
+number:469
+7	7
+16	5
+17	3
+17/t3
+3
+time:0ms
+number:470
+5	7
+9	2
+10	2
+11	4
+14	3
+14/t3
+5
+time:0ms
+number:471
+10	7
+13	2
+15	5
+20	2
+26	3
+26/t3
+5
+time:0ms
+number:472
+19	4
+21	1
+23	1
+24	1
+26	2
+27	3
+27/t3
+6
+time:0ms
+number:473
+21	3
+21/t3
+1
+time:0ms
+number:474
+5	2
+6	4
+9	1
+11	3
+11/t3
+4
+time:0ms
+number:475
+18	3
+18/t3
+1
+time:0ms
+number:476
+32	4
+33	2
+35	1
+38	2
+39	3
+39/t3
+5
+time:0ms
+number:477
+72	4
+73	3
+73/t3
+2
+time:0ms
+number:478
+31	6
+34	4
+36	3
+36/t3
+3
+time:0ms
+number:479
+17	7
+18	2
+48	2
+66	2
+67	4
+68	1
+71	1
+72	2
+73	3
+73/t3
+9
+time:0ms
+number:480
+29	4
+31	2
+32	1
+33	2
+36	3
+36/t3
+5
+time:0ms
+number:481
+80	2
+82	7
+92	6
+94	2
+96	1
+100	5
+103	3
+103/t3
+7
+time:0ms
+number:482
+1	6
+6	1
+7	2
+12	3
+12/t3
+4
+time:0ms
+number:483
+7	5
+11	1
+13	4
+14	2
+15	2
+16	2
+21	1
+23	3
+23/t3
+8
+time:0ms
+number:484
+36	8
+65	3
+65/t3
+2
+time:15ms
+number:485
+39	5
+42	1
+44	2
+53	4
+54	2
+55	3
+55/t3
+6
+time:0ms
+number:486
+3	6
+5	3
+5/t3
+2
+time:0ms
+number:487
+8	4
+9	2
+10	2
+11	2
+16	1
+18	1
+23	3
+23/t3
+7
+time:0ms
+number:488
+11	6
+16	2
+18	4
+19	2
+20	1
+26	3
+26/t3
+6
+time:0ms
+number:489
+30	6
+32	5
+34	3
+34/t3
+3
+time:0ms
+number:490
+21	7
+23	3
+23/t3
+2
+time:0ms
+number:491
+9	5
+10	3
+10/t3
+2
+time:0ms
+number:492
+23	2
+50	5
+51	2
+57	4
+60	3
+60/t3
+5
+time:0ms
+number:493
+16	8
+26	3
+26/t3
+2
+time:0ms
+number:494
+26	4
+28	3
+28/t3
+2
+time:0ms
+number:495
+28	5
+29	2
+30	2
+33	1
+36	1
+37	3
+37/t3
+6
+time:0ms
+number:496
+3	5
+6	2
+10	3
+10/t3
+3
+time:0ms
+number:497
+33	7
+34	2
+43	2
+44	2
+49	2
+53	2
+60	5
+61	2
+66	2
+68	4
+69	1
+72	2
+73	1
+74	2
+76	1
+77	3
+77/t3
+16
+time:0ms
+number:498
+1	5
+2	3
+2/t3
+2
+time:0ms
+number:499
+22	7
+34	3
+34/t3
+2
+time:0ms
+number:500
+43	5
+45	3
+45/t3
+2
+time:0ms
+number:501
+29	7
+30	2
+32	2
+35	5
+37	1
+39	1
+40	1
+41	1
+42	3
+42/t3
+9
+time:0ms
+number:502
+82	7
+89	3
+89/t3
+2
+time:0ms
+number:503
+14	5
+15	3
+15/t3
+2
+time:0ms
+number:504
+12	4
+13	2
+15	2
+16	2
+20	3
+20/t3
+5
+time:0ms
+number:505
+5	5
+6	3
+6/t3
+2
+time:0ms
+number:506
+31	8
+36	4
+38	1
+39	2
+40	1
+41	3
+41/t3
+6
+time:0ms
+number:507
+3	5
+5	2
+9	3
+9/t3
+3
+time:0ms
+number:508
+6	5
+7	4
+8	3
+8/t3
+3
+time:0ms
+number:509
+25	6
+27	5
+33	2
+42	2
+44	2
+45	1
+46	4
+47	2
+48	1
+49	2
+51	3
+51/t3
+11
+time:0ms
+number:510
+42	5
+46	3
+46/t3
+2
+time:0ms
+number:511
+29	6
+30	5
+31	3
+31/t3
+3
+time:0ms
+number:512
+1	6
+6	3
+6/t3
+2
+time:0ms
+number:513
+13	6
+19	4
+20	2
+21	2
+24	1
+25	1
+30	3
+30/t3
+7
+time:0ms
+number:514
+23	5
+24	2
+25	3
+25/t3
+3
+time:0ms
+number:515
+26	6
+28	2
+30	2
+31	4
+32	1
+33	2
+34	1
+35	2
+36	2
+37	2
+39	1
+40	2
+41	2
+42	2
+46	1
+48	1
+49	1
+50	3
+50/t3
+18
+time:15ms
+number:516
+68	3
+68/t3
+1
+time:0ms
+number:517
+23	6
+25	2
+29	2
+31	3
+31/t3
+4
+time:0ms
+number:518
+3	3
+3/t3
+1
+time:0ms
+number:519
+37	6
+38	4
+40	3
+40/t3
+3
+time:0ms
+number:520
+26	3
+26/t3
+1
+time:0ms
+number:521
+56	9
+63	5
+64	3
+64/t3
+3
+time:0ms
+number:522
+15	3
+15/t3
+1
+time:0ms
+number:523
+40	5
+41	2
+42	1
+44	2
+45	3
+45/t3
+5
+time:0ms
+number:524
+2	7
+3	1
+9	4
+11	3
+11/t3
+4
+time:0ms
+number:525
+48	5
+51	3
+51/t3
+2
+time:0ms
+number:526
+2	6
+4	3
+4/t3
+2
+time:0ms
+number:527
+12	5
+17	1
+19	2
+20	3
+20/t3
+4
+time:0ms
+number:528
+61	5
+63	4
+65	1
+67	2
+68	3
+68/t3
+5
+time:0ms
+number:529
+10	4
+16	1
+18	3
+18/t3
+3
+time:0ms
+number:530
+9	1
+24	6
+32	4
+34	3
+34/t3
+4
+time:0ms
+number:531
+5	4
+6	1
+7	3
+7/t3
+3
+time:0ms
+number:532
+36	4
+38	3
+38/t3
+2
+time:0ms
+number:533
+15	4
+17	2
+18	2
+20	3
+20/t3
+4
+time:0ms
+number:534
+13	2
+23	5
+26	4
+29	2
+30	3
+30/t3
+5
+time:0ms
+number:535
+2	5
+4	3
+4/t3
+2
+time:0ms
+number:536
+28	9
+39	3
+39/t3
+2
+time:0ms
+number:537
+71	6
+74	2
+76	5
+80	3
+80/t3
+4
+time:0ms
+number:538
+4	6
+7	2
+9	3
+9/t3
+3
+time:0ms
+number:539
+25	4
+26	3
+26/t3
+2
+time:0ms
+number:540
+28	6
+35	4
+37	3
+37/t3
+3
+time:0ms
+number:541
+11	6
+14	3
+14/t3
+2
+time:0ms
+number:542
+79	6
+94	4
+96	1
+98	3
+98/t3
+4
+time:0ms
+number:543
+59	5
+62	2
+78	3
+78/t3
+3
+time:0ms
+number:544
+10	4
+11	2
+14	2
+15	2
+16	2
+18	3
+18/t3
+6
+time:0ms
+number:545
+11	3
+11/t3
+1
+time:0ms
+number:546
+5	8
+8	4
+12	1
+13	2
+19	2
+22	2
+23	3
+23/t3
+7
+time:0ms
+number:547
+48	5
+50	4
+52	3
+52/t3
+3
+time:0ms
+number:548
+20	7
+36	3
+36/t3
+2
+time:0ms
+number:549
+42	4
+43	1
+45	2
+48	2
+49	2
+53	2
+54	2
+57	2
+60	2
+61	2
+62	2
+63	1
+65	2
+67	2
+69	2
+71	2
+74	3
+74/t3
+17
+time:0ms
+number:550
+88	1
+94	4
+95	3
+95/t3
+3
+time:0ms
+number:551
+16	3
+16/t3
+1
+time:0ms
+number:552
+46	4
+47	2
+48	1
+49	1
+50	2
+52	1
+53	3
+53/t3
+7
+time:0ms
+number:553
+6	7
+9	3
+9/t3
+2
+time:0ms
+number:554
+58	8
+79	4
+86	2
+87	3
+87/t3
+4
+time:0ms
+number:555
+27	6
+29	3
+29/t3
+2
+time:0ms
+number:556
+2	7
+5	3
+5/t3
+2
+time:0ms
+number:557
+3	6
+5	3
+5/t3
+2
+time:0ms
+number:558
+7	4
+11	2
+12	3
+12/t3
+3
+time:0ms
+number:559
+27	9
+32	6
+33	1
+35	4
+38	3
+38/t3
+5
+time:0ms
+number:560
+5	4
+6	1
+7	1
+12	2
+13	1
+14	3
+14/t3
+6
+time:0ms
+number:561
+3	3
+3/t3
+1
+time:0ms
+number:562
+2	5
+3	3
+3/t3
+2
+time:0ms
+number:563
+3	6
+7	2
+8	4
+10	2
+13	1
+17	1
+18	2
+19	3
+19/t3
+8
+time:0ms
+number:564
+12	4
+13	1
+15	3
+15/t3
+3
+time:0ms
+number:565
+29	5
+30	1
+32	1
+33	3
+33/t3
+4
+time:0ms
+number:566
+25	3
+25/t3
+1
+time:0ms
+number:567
+53	6
+57	2
+58	2
+59	3
+59/t3
+4
+time:0ms
+number:568
+9	5
+10	2
+16	4
+17	1
+19	3
+19/t3
+5
+time:0ms
+number:569
+24	4
+26	1
+28	2
+29	1
+31	3
+31/t3
+5
+time:0ms
+number:570
+8	5
+12	4
+13	3
+13/t3
+3
+time:0ms
+number:571
+26	6
+29	5
+32	3
+32/t3
+3
+time:0ms
+number:572
+32	5
+34	2
+35	4
+37	2
+38	3
+38/t3
+5
+time:0ms
+number:573
+8	4
+9	1
+12	3
+12/t3
+3
+time:0ms
+number:574
+59	2
+73	5
+75	3
+75/t3
+3
+time:0ms
+number:575
+48	6
+49	4
+51	2
+52	2
+53	1
+54	3
+54/t3
+6
+time:0ms
+number:576
+17	7
+22	2
+24	4
+26	2
+27	2
+29	2
+30	1
+33	3
+33/t3
+8
+time:0ms
+number:577
+6	3
+6/t3
+1
+time:0ms
+number:578
+1	5
+7	3
+7/t3
+2
+time:0ms
+number:579
+18	4
+20	1
+21	3
+21/t3
+3
+time:0ms
+number:580
+24	3
+24/t3
+1
+time:0ms
+number:581
+7	3
+7/t3
+1
+time:0ms
+number:582
+10	5
+15	4
+19	1
+20	2
+21	2
+24	3
+24/t3
+6
+time:0ms
+number:583
+9	4
+12	3
+12/t3
+2
+time:0ms
+number:584
+17	4
+18	1
+20	2
+22	1
+23	2
+24	2
+25	2
+28	2
+31	1
+32	1
+33	2
+34	2
+37	2
+41	3
+41/t3
+14
+time:0ms
+number:585
+2	5
+7	2
+11	3
+11/t3
+3
+time:0ms
+number:586
+26	4
+28	3
+28/t3
+2
+time:0ms
+number:587
+62	5
+63	3
+63/t3
+2
+time:0ms
+number:588
+1	5
+3	4
+4	1
+8	1
+9	2
+10	2
+11	1
+15	3
+15/t3
+8
+time:0ms
+number:589
+11	7
+12	5
+13	4
+14	2
+15	3
+15/t3
+5
+time:0ms
+number:590
+9	4
+11	3
+11/t3
+2
+time:0ms
+number:591
+7	8
+8	4
+10	3
+10/t3
+3
+time:0ms
+number:592
+49	4
+50	1
+51	2
+52	3
+52/t3
+4
+time:0ms
+number:593
+4	7
+10	3
+10/t3
+2
+time:0ms
+number:594
+3	4
+4	1
+5	1
+6	1
+7	1
+8	3
+8/t3
+6
+time:0ms
+number:595
+1	5
+7	2
+10	4
+11	3
+11/t3
+4
+time:0ms
+number:596
+36	7
+51	2
+57	2
+61	4
+62	3
+62/t3
+5
+time:0ms
+number:597
+38	5
+39	4
+41	2
+42	1
+44	2
+45	2
+46	2
+47	1
+48	3
+48/t3
+9
+time:0ms
+number:598
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:599
+1	6
+2	2
+10	3
+10/t3
+3
+time:0ms
+number:600
+7	4
+8	2
+9	3
+9/t3
+3
+time:0ms
+number:601
+29	4
+30	1
+31	2
+32	3
+32/t3
+4
+time:0ms
+number:602
+2	5
+3	3
+3/t3
+2
+time:0ms
+number:603
+13	4
+17	1
+18	1
+20	2
+24	1
+25	1
+28	3
+28/t3
+7
+time:0ms
+number:604
+6	7
+7	5
+11	2
+12	2
+14	1
+17	1
+18	3
+18/t3
+7
+time:0ms
+number:605
+2	6
+3	2
+7	3
+7/t3
+3
+time:0ms
+number:606
+22	3
+22/t3
+1
+time:0ms
+number:607
+27	4
+28	3
+28/t3
+2
+time:0ms
+number:608
+6	5
+11	2
+15	3
+15/t3
+3
+time:0ms
+number:609
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:610
+6	5
+8	4
+9	2
+13	2
+14	2
+15	3
+15/t3
+6
+time:0ms
+number:611
+65	6
+69	3
+69/t3
+2
+time:0ms
+number:612
+7	5
+8	3
+8/t3
+2
+time:0ms
+number:613
+5	3
+5/t3
+1
+time:0ms
+number:614
+15	5
+18	2
+26	2
+27	1
+28	3
+28/t3
+5
+time:0ms
+number:615
+23	4
+24	3
+24/t3
+2
+time:0ms
+number:616
+8	5
+13	3
+13/t3
+2
+time:0ms
+number:617
+9	4
+10	1
+11	3
+11/t3
+3
+time:0ms
+number:618
+10	5
+11	1
+13	2
+16	3
+16/t3
+4
+time:15ms
+number:619
+14	5
+15	3
+15/t3
+2
+time:0ms
+number:620
+44	5
+45	4
+47	3
+47/t3
+3
+time:0ms
+number:621
+51	5
+52	4
+55	2
+57	3
+57/t3
+4
+time:0ms
+number:622
+3	6
+9	3
+9/t3
+2
+time:0ms
+number:623
+13	4
+15	3
+15/t3
+2
+time:0ms
+number:624
+32	6
+33	4
+34	2
+35	1
+40	2
+42	2
+43	3
+43/t3
+7
+time:0ms
+number:625
+15	5
+20	2
+22	1
+25	2
+28	4
+31	3
+31/t3
+6
+time:0ms
+number:626
+42	3
+42/t3
+1
+time:0ms
+number:627
+16	6
+18	4
+19	2
+20	1
+21	1
+22	2
+23	2
+25	3
+25/t3
+8
+time:0ms
+number:628
+35	5
+36	2
+37	2
+39	1
+42	3
+42/t3
+5
+time:0ms
+number:629
+4	8
+13	5
+15	4
+16	3
+16/t3
+4
+time:0ms
+number:630
+11	5
+12	2
+13	3
+13/t3
+3
+time:0ms
+number:631
+46	4
+50	1
+52	2
+53	3
+53/t3
+4
+time:0ms
+number:632
+11	6
+26	3
+26/t3
+2
+time:0ms
+number:633
+12	2
+15	5
+16	4
+20	2
+23	1
+24	2
+25	3
+25/t3
+7
+time:0ms
+number:634
+7	5
+8	3
+8/t3
+2
+time:0ms
+number:635
+16	4
+20	1
+22	2
+23	1
+24	1
+26	3
+26/t3
+6
+time:0ms
+number:636
+32	7
+34	3
+34/t3
+2
+time:0ms
+number:637
+31	3
+31/t3
+1
+time:0ms
+number:638
+84	6
+88	4
+89	2
+92	2
+96	2
+97	2
+99	1
+100	3
+100/t3
+8
+time:0ms
+number:639
+45	5
+47	3
+47/t3
+2
+time:0ms
+number:640
+18	6
+29	2
+45	5
+47	3
+47/t3
+4
+time:0ms
+number:641
+10	2
+23	7
+33	4
+34	1
+35	3
+35/t3
+5
+time:0ms
+number:642
+4	5
+9	3
+9/t3
+2
+time:0ms
+number:643
+26	4
+28	2
+29	1
+30	2
+32	3
+32/t3
+5
+time:0ms
+number:644
+9	7
+13	4
+14	3
+14/t3
+3
+time:0ms
+number:645
+17	3
+17/t3
+1
+time:0ms
+number:646
+48	1
+85	8
+86	4
+91	2
+92	1
+93	2
+94	2
+96	3
+96/t3
+8
+time:0ms
+number:647
+22	6
+28	3
+28/t3
+2
+time:0ms
+number:648
+19	4
+20	1
+22	1
+24	1
+25	2
+26	2
+27	2
+28	2
+29	2
+36	2
+38	3
+38/t3
+11
+time:0ms
+number:649
+34	6
+39	2
+41	4
+44	3
+44/t3
+4
+time:0ms
+number:650
+26	8
+28	3
+28/t3
+2
+time:0ms
+number:651
+45	6
+50	1
+60	2
+61	2
+66	4
+67	3
+67/t3
+6
+time:0ms
+number:652
+13	6
+15	1
+16	2
+19	2
+24	4
+25	2
+26	1
+27	2
+28	1
+31	3
+31/t3
+10
+time:16ms
+number:653
+29	5
+32	2
+34	4
+35	2
+36	2
+39	1
+40	2
+41	2
+44	1
+45	3
+45/t3
+10
+time:0ms
+number:654
+2	6
+3	3
+3/t3
+2
+time:0ms
+number:655
+30	6
+32	3
+32/t3
+2
+time:0ms
+number:656
+4	3
+4/t3
+1
+time:0ms
+number:657
+9	8
+14	3
+14/t3
+2
+time:0ms
+number:658
+23	2
+34	4
+35	1
+36	2
+39	1
+41	2
+42	1
+43	2
+48	2
+52	3
+52/t3
+10
+time:0ms
+number:659
+7	5
+10	2
+14	1
+20	4
+21	2
+22	3
+22/t3
+6
+time:0ms
+number:660
+21	2
+24	7
+34	4
+38	3
+38/t3
+4
+time:0ms
+number:661
+44	4
+45	1
+47	1
+50	3
+50/t3
+4
+time:0ms
+number:662
+48	5
+52	4
+53	2
+54	1
+56	3
+56/t3
+5
+time:0ms
+number:663
+40	3
+40/t3
+1
+time:0ms
+number:664
+33	7
+54	3
+54/t3
+2
+time:0ms
+number:665
+52	6
+54	3
+54/t3
+2
+time:0ms
+number:666
+15	5
+19	2
+23	4
+24	3
+24/t3
+4
+time:0ms
+number:667
+2	6
+4	3
+4/t3
+2
+time:0ms
+number:668
+5	6
+6	5
+9	3
+9/t3
+3
+time:0ms
+number:669
+42	6
+45	3
+45/t3
+2
+time:0ms
+number:670
+15	5
+17	2
+18	4
+19	3
+19/t3
+4
+time:0ms
+number:671
+17	5
+20	4
+22	2
+25	2
+27	2
+29	3
+29/t3
+6
+time:0ms
+number:672
+1	4
+2	2
+6	2
+7	3
+7/t3
+4
+time:0ms
+number:673
+17	5
+18	2
+25	3
+25/t3
+3
+time:0ms
+number:674
+25	5
+29	3
+29/t3
+2
+time:0ms
+number:675
+26	6
+32	4
+34	2
+37	2
+40	2
+42	2
+44	3
+44/t3
+7
+time:0ms
+number:676
+11	5
+16	3
+16/t3
+2
+time:0ms
+number:677
+23	7
+33	5
+36	4
+37	3
+37/t3
+4
+time:0ms
+number:678
+6	5
+9	1
+10	2
+13	4
+17	3
+17/t3
+5
+time:0ms
+number:679
+8	7
+28	1
+38	3
+38/t3
+3
+time:0ms
+number:680
+1	8
+15	5
+22	3
+22/t3
+3
+time:0ms
+number:681
+31	3
+31/t3
+1
+time:0ms
+number:682
+7	5
+11	2
+19	4
+21	2
+22	3
+22/t3
+5
+time:0ms
+number:683
+7	5
+11	3
+11/t3
+2
+time:0ms
+number:684
+9	5
+10	2
+14	3
+14/t3
+3
+time:16ms
+number:685
+29	5
+30	1
+32	3
+32/t3
+3
+time:0ms
+number:686
+11	3
+11/t3
+1
+time:0ms
+number:687
+11	7
+20	3
+20/t3
+2
+time:0ms
+number:688
+15	5
+21	2
+22	4
+23	3
+23/t3
+4
+time:0ms
+number:689
+25	4
+28	2
+29	1
+31	3
+31/t3
+4
+time:0ms
+number:690
+7	2
+19	7
+20	2
+26	2
+28	5
+30	4
+31	1
+34	2
+36	3
+36/t3
+9
+time:0ms
+number:691
+5	8
+22	4
+23	2
+26	1
+33	3
+33/t3
+5
+time:0ms
+number:692
+13	6
+15	2
+19	5
+21	2
+27	2
+30	1
+33	2
+35	4
+36	3
+36/t3
+9
+time:0ms
+number:693
+3	8
+6	6
+15	1
+20	1
+25	4
+26	3
+26/t3
+6
+time:0ms
+number:694
+5	6
+6	3
+6/t3
+2
+time:0ms
+number:695
+3	4
+5	1
+7	3
+7/t3
+3
+time:0ms
+number:696
+9	5
+11	4
+13	3
+13/t3
+3
+time:0ms
+number:697
+13	6
+14	2
+15	4
+16	2
+18	2
+19	3
+19/t3
+6
+time:0ms
+number:698
+7	7
+10	3
+10/t3
+2
+time:0ms
+number:699
+4	2
+5	4
+7	2
+8	2
+9	3
+9/t3
+5
+time:0ms
+number:700
+28	4
+32	2
+33	2
+34	2
+36	1
+37	1
+44	3
+44/t3
+7
+time:0ms
+number:701
+40	3
+40/t3
+1
+time:0ms
+number:702
+6	7
+8	5
+11	2
+16	2
+17	3
+17/t3
+5
+time:0ms
+number:703
+9	6
+10	3
+10/t3
+2
+time:0ms
+number:704
+6	4
+7	2
+8	1
+9	1
+11	1
+13	2
+17	3
+17/t3
+7
+time:0ms
+number:705
+22	5
+23	2
+28	3
+28/t3
+3
+time:0ms
+number:706
+8	6
+13	4
+14	3
+14/t3
+3
+time:0ms
+number:707
+23	5
+26	3
+26/t3
+2
+time:0ms
+number:708
+35	7
+36	5
+37	3
+37/t3
+3
+time:0ms
+number:709
+24	3
+24/t3
+1
+time:0ms
+number:710
+8	4
+13	2
+14	2
+16	3
+16/t3
+4
+time:0ms
+number:711
+12	7
+19	3
+19/t3
+2
+time:0ms
+number:712
+46	7
+49	5
+51	2
+52	2
+53	2
+60	2
+61	1
+62	3
+62/t3
+8
+time:0ms
+number:713
+14	7
+17	5
+18	2
+22	1
+23	2
+24	3
+24/t3
+6
+time:0ms
+number:714
+48	5
+49	3
+49/t3
+2
+time:0ms
+number:715
+12	6
+13	2
+14	3
+14/t3
+3
+time:0ms
+number:716
+1	7
+8	2
+9	4
+10	3
+10/t3
+4
+time:0ms
+number:717
+16	5
+18	4
+20	2
+21	3
+21/t3
+4
+time:0ms
+number:718
+4	6
+6	4
+10	3
+10/t3
+3
+time:0ms
+number:719
+37	6
+43	5
+46	3
+46/t3
+3
+time:0ms
+number:720
+22	4
+24	1
+25	2
+26	3
+26/t3
+4
+time:0ms
+number:721
+2	6
+3	4
+9	2
+10	2
+11	3
+11/t3
+5
+time:0ms
+number:722
+31	7
+34	5
+35	2
+44	1
+55	2
+58	3
+58/t3
+6
+time:0ms
+number:723
+2	5
+7	3
+7/t3
+2
+time:0ms
+number:724
+12	3
+12/t3
+1
+time:0ms
+number:725
+8	8
+23	4
+24	2
+27	1
+28	2
+29	1
+31	2
+34	2
+37	1
+38	3
+38/t3
+10
+time:0ms
+number:726
+20	5
+23	3
+23/t3
+2
+time:0ms
+number:727
+7	4
+9	3
+9/t3
+2
+time:0ms
+number:728
+2	6
+3	3
+3/t3
+2
+time:0ms
+number:729
+23	7
+27	3
+27/t3
+2
+time:0ms
+number:730
+1	2
+49	4
+51	3
+51/t3
+3
+time:0ms
+number:731
+58	7
+74	4
+75	3
+75/t3
+3
+time:0ms
+number:732
+16	8
+18	5
+21	2
+24	2
+28	1
+29	3
+29/t3
+6
+time:0ms
+number:733
+1	5
+5	2
+6	1
+10	3
+10/t3
+4
+time:0ms
+number:734
+3	3
+3/t3
+1
+time:0ms
+number:735
+10	6
+11	3
+11/t3
+2
+time:0ms
+number:736
+7	6
+19	3
+19/t3
+2
+time:0ms
+number:737
+11	6
+15	2
+18	1
+25	1
+29	4
+30	2
+31	1
+36	2
+37	3
+37/t3
+9
+time:0ms
+number:738
+1	3
+1/t3
+1
+time:0ms
+number:739
+3	4
+4	2
+5	2
+6	3
+6/t3
+4
+time:0ms
+number:740
+9	6
+10	1
+11	5
+12	2
+15	1
+17	3
+17/t3
+6
+time:0ms
+number:741
+33	5
+41	2
+45	2
+47	1
+48	3
+48/t3
+5
+time:0ms
+number:742
+41	2
+67	4
+69	2
+71	2
+72	2
+75	2
+78	2
+79	3
+79/t3
+8
+time:0ms
+number:743
+21	6
+37	2
+38	2
+39	2
+42	4
+43	2
+45	1
+46	3
+46/t3
+8
+time:0ms
+number:744
+91	6
+99	5
+100	2
+103	2
+113	2
+115	1
+116	3
+116/t3
+7
+time:0ms
+number:745
+10	4
+12	1
+14	1
+15	1
+17	3
+17/t3
+5
+time:0ms
+number:746
+15	5
+16	1
+23	4
+28	1
+30	3
+30/t3
+5
+time:0ms
+number:747
+17	8
+21	3
+21/t3
+2
+time:0ms
+number:748
+16	6
+26	4
+27	1
+28	1
+30	2
+32	2
+33	3
+33/t3
+7
+time:0ms
+number:749
+98	4
+99	1
+104	1
+105	3
+105/t3
+4
+time:0ms
+number:750
+45	8
+46	2
+59	5
+62	2
+65	1
+69	4
+70	2
+75	2
+76	2
+80	3
+80/t3
+10
+time:0ms
+number:751
+2	4
+3	1
+6	1
+15	2
+17	1
+19	2
+20	2
+22	3
+22/t3
+8
+time:0ms
+number:752
+7	7
+10	3
+10/t3
+2
+time:0ms
+number:753
+49	2
+69	4
+70	2
+71	1
+73	2
+78	3
+78/t3
+6
+time:0ms
+number:754
+14	4
+20	3
+20/t3
+2
+time:0ms
+number:755
+15	3
+15/t3
+1
+time:0ms
+number:756
+4	7
+11	3
+11/t3
+2
+time:16ms
+number:757
+14	6
+17	4
+19	3
+19/t3
+3
+time:0ms
+number:758
+77	6
+80	1
+83	3
+83/t3
+3
+time:0ms
+number:759
+2	3
+2/t3
+1
+time:0ms
+number:760
+2	5
+3	3
+3/t3
+2
+time:0ms
+number:761
+15	6
+17	4
+18	2
+21	3
+21/t3
+4
+time:0ms
+number:762
+44	3
+44/t3
+1
+time:0ms
+number:763
+2	3
+2/t3
+1
+time:0ms
+number:764
+22	7
+25	5
+37	1
+39	3
+39/t3
+4
+time:0ms
+number:765
+7	3
+7/t3
+1
+time:0ms
+number:766
+14	4
+16	3
+16/t3
+2
+time:0ms
+number:767
+3	4
+4	3
+4/t3
+2
+time:0ms
+number:768
+33	8
+35	5
+36	4
+38	3
+38/t3
+4
+time:0ms
+number:769
+33	3
+33/t3
+1
+time:0ms
+number:770
+18	5
+23	1
+26	1
+27	3
+27/t3
+4
+time:0ms
+number:771
+28	4
+29	2
+30	2
+32	3
+32/t3
+4
+time:0ms
+number:772
+5	5
+6	2
+7	2
+9	3
+9/t3
+4
+time:0ms
+number:773
+23	4
+24	2
+25	1
+26	1
+31	1
+32	2
+35	3
+35/t3
+7
+time:0ms
+number:774
+19	3
+19/t3
+1
+time:0ms
+number:775
+13	6
+17	2
+20	1
+25	5
+27	2
+31	3
+31/t3
+6
+time:0ms
+number:776
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:777
+30	3
+30/t3
+1
+time:0ms
+number:778
+62	4
+65	2
+67	1
+68	2
+70	3
+70/t3
+5
+time:0ms
+number:779
+8	6
+11	2
+13	2
+15	3
+15/t3
+4
+time:0ms
+number:780
+48	3
+48/t3
+1
+time:0ms
+number:781
+42	3
+42/t3
+1
+time:0ms
+number:782
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:783
+4	4
+5	1
+6	1
+7	2
+8	3
+8/t3
+5
+time:0ms
+number:784
+11	6
+12	2
+13	4
+14	1
+15	1
+16	2
+17	1
+18	2
+21	2
+22	1
+23	1
+24	2
+27	2
+30	3
+30/t3
+14
+time:0ms
+number:785
+7	6
+8	1
+11	2
+12	3
+12/t3
+4
+time:0ms
+number:786
+91	9
+93	4
+94	2
+95	1
+97	3
+97/t3
+5
+time:0ms
+number:787
+23	1
+56	2
+67	5
+69	2
+71	3
+71/t3
+5
+time:0ms
+number:788
+2	3
+2/t3
+1
+time:0ms
+number:789
+59	4
+60	3
+60/t3
+2
+time:15ms
+number:790
+4	6
+5	2
+16	3
+16/t3
+3
+time:0ms
+number:791
+80	7
+95	4
+103	2
+104	2
+105	2
+106	1
+107	3
+107/t3
+7
+time:0ms
+number:792
+19	5
+23	2
+26	2
+27	1
+32	1
+34	1
+37	2
+40	4
+43	2
+47	3
+47/t3
+10
+time:0ms
+number:793
+17	5
+18	2
+20	3
+20/t3
+3
+time:0ms
+number:794
+8	4
+9	2
+12	3
+12/t3
+3
+time:0ms
+number:795
+8	2
+26	6
+29	2
+31	1
+33	1
+35	4
+39	3
+39/t3
+7
+time:0ms
+number:796
+6	6
+8	2
+9	1
+15	2
+22	2
+27	2
+28	3
+28/t3
+7
+time:0ms
+number:797
+4	4
+5	2
+7	2
+9	1
+11	3
+11/t3
+5
+time:0ms
+number:798
+6	4
+15	3
+15/t3
+2
+time:0ms
+number:799
+3	3
+3/t3
+1
+time:0ms
+number:800
+2	5
+6	1
+8	2
+13	2
+16	1
+17	4
+19	1
+23	1
+25	3
+25/t3
+9
+time:0ms
+number:801
+24	4
+25	1
+26	2
+28	2
+29	1
+30	2
+31	2
+32	1
+33	1
+34	3
+34/t3
+10
+time:0ms
+number:802
+13	6
+18	2
+19	3
+19/t3
+3
+time:0ms
+number:803
+23	5
+24	3
+24/t3
+2
+time:0ms
+number:804
+38	6
+45	4
+46	1
+47	3
+47/t3
+4
+time:0ms
+number:805
+3	5
+5	3
+5/t3
+2
+time:0ms
+number:806
+12	7
+15	4
+17	3
+17/t3
+3
+time:0ms
+number:807
+9	5
+10	2
+14	2
+16	2
+19	2
+20	3
+20/t3
+6
+time:0ms
+number:808
+2	5
+4	2
+5	4
+7	3
+7/t3
+4
+time:0ms
+number:809
+34	4
+37	2
+39	2
+42	3
+42/t3
+4
+time:0ms
+number:810
+3	7
+17	1
+22	3
+22/t3
+3
+time:0ms
+number:811
+16	4
+17	3
+17/t3
+2
+time:0ms
+number:812
+9	6
+11	3
+11/t3
+2
+time:0ms
+number:813
+23	7
+36	5
+41	2
+44	1
+46	4
+47	2
+48	1
+50	3
+50/t3
+8
+time:0ms
+number:814
+3	3
+3/t3
+1
+time:0ms
+number:815
+31	2
+62	6
+77	4
+78	3
+78/t3
+4
+time:0ms
+number:816
+32	5
+37	3
+37/t3
+2
+time:0ms
+number:817
+27	4
+31	3
+31/t3
+2
+time:0ms
+number:818
+36	5
+40	2
+42	4
+43	3
+43/t3
+4
+time:0ms
+number:819
+19	6
+22	2
+24	2
+29	4
+31	2
+32	2
+36	1
+37	2
+38	1
+41	3
+41/t3
+10
+time:0ms
+number:820
+10	7
+12	3
+12/t3
+2
+time:0ms
+number:821
+1	6
+7	2
+8	3
+8/t3
+3
+time:0ms
+number:822
+30	1
+42	4
+44	2
+45	3
+45/t3
+4
+time:0ms
+number:823
+30	3
+30/t3
+1
+time:0ms
+number:824
+26	6
+40	2
+43	2
+47	1
+52	3
+52/t3
+5
+time:0ms
+number:825
+29	3
+29/t3
+1
+time:15ms
+number:826
+12	2
+47	6
+49	1
+53	3
+53/t3
+4
+time:0ms
+number:827
+70	6
+75	4
+76	1
+79	2
+82	2
+83	3
+83/t3
+6
+time:0ms
+number:828
+14	6
+24	2
+28	2
+36	3
+36/t3
+4
+time:0ms
+number:829
+73	5
+74	3
+74/t3
+2
+time:0ms
+number:830
+46	5
+49	2
+50	2
+51	3
+51/t3
+4
+time:0ms
+number:831
+13	6
+15	4
+16	1
+21	2
+22	2
+24	3
+24/t3
+6
+time:0ms
+number:832
+12	6
+14	5
+16	4
+17	1
+19	1
+20	2
+21	2
+25	2
+27	3
+27/t3
+9
+time:0ms
+number:833
+4	3
+4/t3
+1
+time:0ms
+number:834
+16	5
+20	2
+23	4
+24	2
+27	1
+28	3
+28/t3
+6
+time:0ms
+number:835
+56	4
+58	3
+58/t3
+2
+time:0ms
+number:836
+1	6
+4	4
+7	1
+9	1
+13	2
+15	2
+19	3
+19/t3
+7
+time:0ms
+number:837
+3	6
+7	3
+7/t3
+2
+time:0ms
+number:838
+4	6
+10	4
+11	1
+12	1
+13	1
+14	3
+14/t3
+6
+time:0ms
+number:839
+17	5
+22	2
+23	4
+25	2
+26	3
+26/t3
+5
+time:0ms
+number:840
+5	7
+10	5
+11	2
+12	4
+13	1
+23	2
+24	2
+25	2
+27	2
+30	1
+33	3
+33/t3
+11
+time:0ms
+number:841
+2	5
+5	4
+6	3
+6/t3
+3
+time:0ms
+number:842
+13	4
+14	2
+16	2
+17	2
+20	2
+21	2
+25	3
+25/t3
+7
+time:0ms
+number:843
+13	5
+14	2
+16	3
+16/t3
+3
+time:0ms
+number:844
+37	7
+43	4
+44	3
+44/t3
+3
+time:0ms
+number:845
+2	5
+3	2
+5	4
+7	3
+7/t3
+4
+time:0ms
+number:846
+5	8
+6	5
+8	3
+8/t3
+3
+time:0ms
+number:847
+13	5
+15	1
+20	3
+20/t3
+3
+time:0ms
+number:848
+11	5
+14	4
+17	2
+18	3
+18/t3
+4
+time:0ms
+number:849
+17	5
+19	3
+19/t3
+2
+time:0ms
+number:850
+37	2
+42	7
+43	4
+45	2
+46	2
+48	2
+49	1
+50	3
+50/t3
+8
+time:0ms
+number:851
+22	6
+33	3
+33/t3
+2
+time:0ms
+number:852
+16	4
+17	2
+19	2
+21	2
+23	1
+25	2
+26	3
+26/t3
+7
+time:0ms
+number:853
+14	8
+16	5
+17	2
+18	2
+22	3
+22/t3
+5
+time:0ms
+number:854
+4	6
+10	4
+14	2
+16	3
+16/t3
+4
+time:0ms
+number:855
+4	6
+5	5
+8	2
+9	1
+11	2
+13	3
+13/t3
+6
+time:16ms
+number:856
+5	6
+14	4
+15	3
+15/t3
+3
+time:0ms
+number:857
+22	8
+34	4
+41	2
+42	1
+43	2
+44	1
+49	1
+50	1
+53	1
+54	3
+54/t3
+10
+time:0ms
+number:858
+18	4
+22	3
+22/t3
+2
+time:0ms
+number:859
+2	3
+2/t3
+1
+time:0ms
+number:860
+32	4
+33	2
+34	2
+35	2
+39	3
+39/t3
+5
+time:0ms
+number:861
+27	8
+37	4
+38	3
+38/t3
+3
+time:0ms
+number:862
+29	4
+30	2
+32	2
+33	2
+34	3
+34/t3
+5
+time:0ms
+number:863
+12	5
+13	1
+16	1
+20	3
+20/t3
+4
+time:0ms
+number:864
+1	7
+2	4
+4	1
+11	3
+11/t3
+4
+time:0ms
+number:865
+26	4
+27	2
+31	1
+33	3
+33/t3
+4
+time:0ms
+number:866
+6	5
+12	2
+14	3
+14/t3
+3
+time:0ms
+number:867
+18	5
+19	4
+20	2
+23	2
+29	1
+30	1
+31	3
+31/t3
+7
+time:0ms
+number:868
+40	6
+41	3
+41/t3
+2
+time:0ms
+number:869
+10	4
+11	2
+13	1
+14	2
+15	3
+15/t3
+5
+time:0ms
+number:870
+24	3
+24/t3
+1
+time:0ms
+number:871
+2	7
+34	5
+35	2
+39	4
+40	3
+40/t3
+5
+time:0ms
+number:872
+90	3
+90/t3
+1
+time:0ms
+number:873
+12	6
+17	2
+29	2
+34	5
+35	4
+36	1
+38	2
+40	3
+40/t3
+8
+time:0ms
+number:874
+3	5
+11	2
+12	2
+15	4
+16	1
+17	3
+17/t3
+6
+time:0ms
+number:875
+69	3
+69/t3
+1
+time:0ms
+number:876
+11	5
+15	2
+19	3
+19/t3
+3
+time:0ms
+number:877
+9	1
+18	4
+23	3
+23/t3
+3
+time:0ms
+number:878
+18	3
+18/t3
+1
+time:0ms
+number:879
+1	6
+4	2
+6	2
+17	3
+17/t3
+4
+time:0ms
+number:880
+10	2
+22	5
+24	4
+26	2
+27	1
+31	1
+32	3
+32/t3
+7
+time:0ms
+number:881
+21	6
+23	3
+23/t3
+2
+time:0ms
+number:882
+28	8
+35	7
+38	4
+39	1
+40	1
+42	3
+42/t3
+6
+time:0ms
+number:883
+11	7
+17	4
+18	3
+18/t3
+3
+time:0ms
+number:884
+11	3
+11/t3
+1
+time:0ms
+number:885
+7	7
+8	4
+9	1
+10	2
+11	1
+14	2
+15	1
+17	1
+19	3
+19/t3
+9
+time:0ms
+number:886
+49	3
+49/t3
+1
+time:0ms
+number:887
+32	5
+38	2
+39	2
+42	2
+44	3
+44/t3
+5
+time:0ms
+number:888
+4	6
+10	2
+17	3
+17/t3
+3
+time:0ms
+number:889
+19	8
+27	6
+31	3
+31/t3
+3
+time:15ms
+number:890
+32	4
+33	3
+33/t3
+2
+time:0ms
+number:891
+14	4
+15	2
+16	1
+18	2
+19	1
+23	3
+23/t3
+6
+time:0ms
+number:892
+23	4
+24	1
+25	1
+26	3
+26/t3
+4
+time:0ms
+number:893
+15	6
+21	2
+24	1
+25	1
+26	3
+26/t3
+5
+time:0ms
+number:894
+20	7
+25	1
+28	5
+32	4
+35	2
+36	2
+37	2
+38	2
+39	2
+40	2
+41	3
+41/t3
+11
+time:0ms
+number:895
+15	3
+15/t3
+1
+time:0ms
+number:896
+5	3
+5/t3
+1
+time:0ms
+number:897
+4	5
+7	3
+7/t3
+2
+time:0ms
+number:898
+17	4
+20	2
+22	2
+24	1
+25	2
+26	3
+26/t3
+6
+time:0ms
+number:899
+18	9
+23	3
+23/t3
+2
+time:0ms
+number:900
+5	3
+5/t3
+1
+time:0ms
+number:901
+22	4
+25	2
+26	3
+26/t3
+3
+time:0ms
+number:902
+2	5
+4	3
+4/t3
+2
+time:0ms
+number:903
+4	5
+10	2
+11	3
+11/t3
+3
+time:0ms
+number:904
+120	3
+120/t3
+1
+time:0ms
+number:905
+14	6
+27	4
+29	2
+30	2
+32	3
+32/t3
+5
+time:0ms
+number:906
+6	6
+8	3
+8/t3
+2
+time:0ms
+number:907
+5	7
+7	2
+13	2
+18	4
+20	2
+22	2
+23	2
+24	3
+24/t3
+8
+time:0ms
+number:908
+5	5
+6	1
+7	2
+10	3
+10/t3
+4
+time:0ms
+number:909
+1	2
+30	5
+34	1
+36	2
+39	1
+43	2
+45	1
+50	2
+56	3
+56/t3
+9
+time:0ms
+number:910
+37	4
+38	3
+38/t3
+2
+time:0ms
+number:911
+8	5
+11	2
+14	2
+17	3
+17/t3
+4
+time:0ms
+number:912
+58	5
+60	2
+62	3
+62/t3
+3
+time:0ms
+number:913
+19	5
+20	2
+22	3
+22/t3
+3
+time:0ms
+number:914
+43	5
+44	3
+44/t3
+2
+time:0ms
+number:915
+6	5
+8	3
+8/t3
+2
+time:0ms
+number:916
+20	6
+27	2
+30	5
+34	3
+34/t3
+4
+time:0ms
+number:917
+10	3
+10/t3
+1
+time:0ms
+number:918
+3	7
+4	3
+4/t3
+2
+time:0ms
+number:919
+9	2
+16	4
+17	3
+17/t3
+3
+time:0ms
+number:920
+9	2
+13	3
+13/t3
+2
+time:0ms
+number:921
+25	6
+30	3
+30/t3
+2
+time:0ms
+number:922
+88	4
+90	2
+92	1
+93	1
+95	2
+96	3
+96/t3
+6
+time:0ms
+number:923
+12	7
+19	3
+19/t3
+2
+time:0ms
+number:924
+3	6
+5	3
+5/t3
+2
+time:0ms
+number:925
+12	4
+16	2
+17	1
+20	2
+21	2
+22	2
+23	2
+24	3
+24/t3
+8
+time:0ms
+number:926
+2	3
+2/t3
+1
+time:0ms
+number:927
+7	6
+11	3
+11/t3
+2
+time:0ms
+number:928
+35	4
+36	1
+39	2
+42	2
+43	1
+44	1
+45	3
+45/t3
+7
+time:0ms
+number:929
+19	6
+23	3
+23/t3
+2
+time:0ms
+number:930
+98	6
+100	2
+102	2
+109	2
+111	2
+113	3
+113/t3
+6
+time:0ms
+number:931
+3	5
+7	1
+8	1
+15	1
+17	3
+17/t3
+5
+time:0ms
+number:932
+13	6
+28	1
+35	2
+51	4
+52	3
+52/t3
+5
+time:0ms
+number:933
+45	7
+48	5
+52	4
+55	2
+56	2
+59	2
+60	2
+61	2
+62	1
+67	1
+69	3
+69/t3
+11
+time:0ms
+number:934
+6	4
+7	3
+7/t3
+2
+time:0ms
+number:935
+4	6
+9	5
+10	4
+11	3
+11/t3
+4
+time:0ms
+number:936
+50	3
+50/t3
+1
+time:0ms
+number:937
+11	5
+12	2
+13	4
+14	2
+17	1
+18	3
+18/t3
+6
+time:0ms
+number:938
+18	7
+24	4
+26	3
+26/t3
+3
+time:0ms
+number:939
+1	2
+15	4
+19	2
+23	1
+26	2
+28	2
+32	2
+33	1
+37	1
+41	3
+41/t3
+10
+time:0ms
+number:940
+33	8
+56	6
+58	3
+58/t3
+3
+time:0ms
+number:941
+5	7
+9	4
+12	3
+12/t3
+3
+time:16ms
+number:942
+4	3
+4/t3
+1
+time:0ms
+number:943
+20	5
+23	1
+25	3
+25/t3
+3
+time:0ms
+number:944
+8	6
+9	2
+12	3
+12/t3
+3
+time:0ms
+number:945
+2	3
+2/t3
+1
+time:0ms
+number:946
+26	3
+26/t3
+1
+time:0ms
+number:947
+1	6
+3	3
+3/t3
+2
+time:0ms
+number:948
+10	7
+42	4
+43	1
+45	2
+52	1
+54	1
+58	2
+59	1
+61	3
+61/t3
+9
+time:0ms
+number:949
+1	3
+1/t3
+1
+time:0ms
+number:950
+9	4
+12	3
+12/t3
+2
+time:0ms
+number:951
+9	5
+10	3
+10/t3
+2
+time:0ms
+number:952
+8	7
+18	3
+18/t3
+2
+time:0ms
+number:953
+15	4
+17	2
+19	2
+20	3
+20/t3
+4
+time:0ms
+number:954
+17	7
+26	4
+28	2
+30	1
+33	3
+33/t3
+5
+time:0ms
+number:955
+1	2
+7	4
+8	2
+9	2
+10	2
+12	2
+13	1
+14	1
+15	1
+16	1
+17	1
+18	1
+19	2
+20	2
+21	3
+21/t3
+15
+time:0ms
+number:956
+3	5
+6	2
+8	3
+8/t3
+3
+time:0ms
+number:957
+11	5
+13	2
+14	3
+14/t3
+3
+time:0ms
+number:958
+12	8
+21	3
+21/t3
+2
+time:0ms
+number:959
+46	4
+47	2
+56	3
+56/t3
+3
+time:0ms
+number:960
+3	5
+4	4
+5	1
+6	2
+11	3
+11/t3
+5
+time:0ms
+number:961
+1	5
+3	2
+5	1
+7	4
+9	2
+10	3
+10/t3
+6
+time:0ms
+number:962
+3	5
+7	3
+7/t3
+2
+time:0ms
+number:963
+6	6
+16	4
+17	1
+18	1
+19	1
+24	2
+26	1
+27	2
+30	2
+32	2
+39	2
+40	2
+41	2
+42	1
+43	2
+44	1
+46	1
+47	3
+47/t3
+18
+time:0ms
+number:964
+8	5
+11	4
+14	3
+14/t3
+3
+time:0ms
+number:965
+6	2
+12	5
+14	4
+15	1
+17	2
+18	1
+19	3
+19/t3
+7
+time:0ms
+number:966
+36	4
+37	3
+37/t3
+2
+time:0ms
+number:967
+12	2
+22	7
+26	4
+27	2
+30	1
+33	3
+33/t3
+6
+time:0ms
+number:968
+2	3
+2/t3
+1
+time:0ms
+number:969
+29	2
+53	5
+54	2
+62	2
+64	1
+66	1
+67	2
+68	2
+70	2
+75	2
+79	2
+85	3
+85/t3
+12
+time:0ms
+number:970
+3	7
+7	3
+7/t3
+2
+time:0ms
+number:971
+12	5
+18	2
+20	2
+22	4
+26	2
+27	2
+31	2
+33	3
+33/t3
+8
+time:0ms
+number:972
+14	4
+17	2
+20	3
+20/t3
+3
+time:0ms
+number:973
+19	7
+25	2
+34	3
+34/t3
+3
+time:0ms
+number:974
+17	6
+18	4
+19	1
+21	1
+22	3
+22/t3
+5
+time:0ms
+number:975
+30	2
+58	5
+60	4
+62	2
+63	3
+63/t3
+5
+time:0ms
+number:976
+8	4
+9	2
+10	1
+11	1
+12	2
+14	3
+14/t3
+6
+time:0ms
+number:977
+14	6
+17	3
+17/t3
+2
+time:0ms
+number:978
+18	6
+22	4
+23	3
+23/t3
+3
+time:0ms
+number:979
+3	4
+4	1
+5	2
+6	2
+8	3
+8/t3
+5
+time:0ms
+number:980
+11	6
+12	3
+12/t3
+2
+time:0ms
+number:981
+15	4
+17	3
+17/t3
+2
+time:0ms
+number:982
+61	7
+75	4
+77	2
+80	3
+80/t3
+4
+time:0ms
+number:983
+15	6
+27	1
+31	4
+32	3
+32/t3
+4
+time:0ms
+number:984
+3	5
+4	4
+5	2
+6	2
+7	1
+8	1
+9	2
+11	1
+14	2
+15	2
+16	2
+17	3
+17/t3
+12
+time:0ms
+number:985
+1	6
+3	1
+10	4
+11	2
+12	1
+13	3
+13/t3
+6
+time:0ms
+number:986
+11	8
+12	6
+14	3
+14/t3
+3
+time:0ms
+number:987
+11	4
+14	3
+14/t3
+2
+time:0ms
+number:988
+18	6
+20	2
+21	2
+23	4
+24	1
+25	3
+25/t3
+6
+time:0ms
+number:989
+41	6
+43	2
+52	2
+53	4
+54	2
+55	1
+56	3
+56/t3
+7
+time:15ms
+number:990
+6	8
+15	3
+15/t3
+2
+time:0ms
+number:991
+15	4
+18	2
+19	3
+19/t3
+3
+time:0ms
+number:992
+19	6
+20	3
+20/t3
+2
+time:0ms
+number:993
+6	6
+9	1
+10	4
+11	3
+11/t3
+4
+time:0ms
+number:994
+19	4
+20	1
+22	1
+23	1
+24	2
+26	1
+28	3
+28/t3
+7
+time:0ms
+number:995
+4	5
+10	3
+10/t3
+2
+time:0ms
+number:996
+20	3
+20/t3
+1
+time:0ms
+number:997
+30	4
+31	1
+33	2
+35	1
+36	2
+37	2
+43	1
+49	2
+50	1
+51	1
+53	1
+56	2
+57	3
+57/t3
+13
+time:0ms
+number:998
+48	4
+51	3
+51/t3
+2
+time:0ms
+number:999
+19	5
+20	2
+24	2
+26	2
+27	4
+29	2
+30	1
+32	2
+33	2
+41	3
+41/t3
+10
+time:0ms
+number:1000
+10	6
+12	4
+15	3
+15/t3
+3
+time:0ms

@@ -13,9 +13,9 @@ int scis = 2;  // チョキ
 int fabr = 3;   // パー
 
 typedef list<int> LISTINT;
-ofstream out("test40.txt");
+ofstream out("test5.txt");
 
-#define T 40
+#define T 5
 #define WIN 3
 
 int game_num = T;
@@ -236,7 +236,7 @@ void algofor()
 int main()
 {
 	ofstream out;
-	out.open("test40.txt",ios::app);
+	out.open("test5.txt",ios::app);
 		srand(0);
 	for(int i =0 ; i <1000 ; i++)
 	{	

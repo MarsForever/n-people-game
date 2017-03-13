@@ -1,0 +1,7024 @@
+number:1
+1	3
+1/t3
+1
+time:0ms
+number:2
+3	2
+5	2
+6	4
+8	3
+8/t3
+4
+time:0ms
+number:3
+2	4
+3	2
+5	1
+6	2
+7	1
+8	2
+9	2
+11	2
+13	1
+15	1
+17	2
+20	3
+20/t3
+12
+time:0ms
+number:4
+1	4
+2	1
+3	1
+8	3
+8/t3
+4
+time:0ms
+number:5
+4	1
+6	2
+10	4
+13	3
+13/t3
+4
+time:0ms
+number:6
+6	3
+6/t3
+1
+time:0ms
+number:7
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:8
+3	1
+7	4
+8	1
+10	2
+11	3
+11/t3
+5
+time:0ms
+number:9
+6	3
+6/t3
+1
+time:0ms
+number:10
+1	3
+1/t3
+1
+time:0ms
+number:11
+3	2
+6	4
+7	2
+9	2
+12	2
+13	1
+14	3
+14/t3
+7
+time:0ms
+number:12
+5	4
+9	3
+9/t3
+2
+time:0ms
+number:13
+3	2
+6	2
+7	3
+7/t3
+3
+time:0ms
+number:14
+2	4
+3	2
+5	1
+11	2
+12	2
+14	2
+20	2
+25	3
+25/t3
+8
+time:0ms
+number:15
+6	2
+11	3
+11/t3
+2
+time:0ms
+number:16
+2	2
+5	3
+5/t3
+2
+time:0ms
+number:17
+1	1
+2	3
+2/t3
+2
+time:0ms
+number:18
+4	3
+4/t3
+1
+time:0ms
+number:19
+1	3
+1/t3
+1
+time:0ms
+number:20
+4	2
+6	3
+6/t3
+2
+time:0ms
+number:21
+3	3
+3/t3
+1
+time:0ms
+number:22
+2	2
+6	3
+6/t3
+2
+time:0ms
+number:23
+1	4
+2	1
+3	2
+7	3
+7/t3
+4
+time:0ms
+number:24
+3	1
+5	3
+5/t3
+2
+time:0ms
+number:25
+2	3
+2/t3
+1
+time:0ms
+number:26
+2	3
+2/t3
+1
+time:0ms
+number:27
+4	2
+7	4
+8	2
+11	2
+14	1
+17	2
+18	2
+22	3
+22/t3
+8
+time:0ms
+number:28
+6	2
+7	1
+9	1
+11	2
+14	3
+14/t3
+5
+time:0ms
+number:29
+2	3
+2/t3
+1
+time:0ms
+number:30
+2	1
+4	2
+5	3
+5/t3
+3
+time:0ms
+number:31
+3	2
+7	3
+7/t3
+2
+time:0ms
+number:32
+1	4
+3	2
+4	1
+5	2
+13	1
+14	3
+14/t3
+6
+time:0ms
+number:33
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:34
+2	2
+8	2
+12	3
+12/t3
+3
+time:0ms
+number:35
+2	2
+5	4
+9	2
+10	2
+11	2
+12	1
+16	3
+16/t3
+7
+time:0ms
+number:36
+1	3
+1/t3
+1
+time:0ms
+number:37
+2	2
+5	2
+6	3
+6/t3
+3
+time:0ms
+number:38
+5	2
+7	3
+7/t3
+2
+time:0ms
+number:39
+6	2
+13	3
+13/t3
+2
+time:0ms
+number:40
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:41
+3	3
+3/t3
+1
+time:0ms
+number:42
+1	3
+1/t3
+1
+time:0ms
+number:43
+2	3
+2/t3
+1
+time:0ms
+number:44
+7	3
+7/t3
+1
+time:0ms
+number:45
+8	1
+10	1
+15	3
+15/t3
+3
+time:0ms
+number:46
+3	2
+6	4
+9	1
+11	1
+12	2
+13	3
+13/t3
+6
+time:0ms
+number:47
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:48
+1	2
+8	3
+8/t3
+2
+time:0ms
+number:49
+2	3
+2/t3
+1
+time:0ms
+number:50
+1	1
+6	3
+6/t3
+2
+time:0ms
+number:51
+8	2
+12	2
+14	3
+14/t3
+3
+time:0ms
+number:52
+1	3
+1/t3
+1
+time:0ms
+number:53
+5	4
+6	1
+7	2
+8	1
+9	1
+11	2
+14	1
+16	1
+18	3
+18/t3
+9
+time:0ms
+number:54
+3	1
+7	4
+8	2
+9	2
+10	1
+12	3
+12/t3
+6
+time:0ms
+number:55
+1	3
+1/t3
+1
+time:0ms
+number:56
+1	4
+2	2
+3	1
+5	2
+6	1
+7	2
+11	2
+12	3
+12/t3
+8
+time:0ms
+number:57
+2	2
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:58
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:59
+2	3
+2/t3
+1
+time:0ms
+number:60
+1	1
+3	2
+7	3
+7/t3
+3
+time:0ms
+number:61
+2	3
+2/t3
+1
+time:0ms
+number:62
+1	2
+5	3
+5/t3
+2
+time:0ms
+number:63
+1	4
+3	1
+5	3
+5/t3
+3
+time:0ms
+number:64
+1	4
+2	2
+4	3
+4/t3
+3
+time:0ms
+number:65
+1	4
+3	2
+4	1
+5	2
+6	3
+6/t3
+5
+time:0ms
+number:66
+1	4
+3	3
+3/t3
+2
+time:0ms
+number:67
+3	3
+3/t3
+1
+time:0ms
+number:68
+8	2
+10	4
+15	2
+17	2
+20	2
+24	2
+25	3
+25/t3
+7
+time:0ms
+number:69
+1	3
+1/t3
+1
+time:0ms
+number:70
+1	3
+1/t3
+1
+time:15ms
+number:71
+2	4
+4	2
+6	2
+7	2
+8	2
+11	3
+11/t3
+6
+time:0ms
+number:72
+1	2
+2	2
+4	2
+6	4
+7	2
+8	2
+10	3
+10/t3
+7
+time:0ms
+number:73
+1	4
+2	2
+4	1
+7	1
+8	3
+8/t3
+5
+time:0ms
+number:74
+1	1
+4	3
+4/t3
+2
+time:0ms
+number:75
+1	3
+1/t3
+1
+time:0ms
+number:76
+4	3
+4/t3
+1
+time:0ms
+number:77
+4	1
+5	2
+6	1
+7	1
+12	2
+15	3
+15/t3
+6
+time:0ms
+number:78
+1	2
+3	2
+6	1
+7	3
+7/t3
+4
+time:0ms
+number:79
+1	1
+6	3
+6/t3
+2
+time:0ms
+number:80
+4	2
+6	4
+8	2
+10	1
+14	1
+15	1
+18	3
+18/t3
+7
+time:0ms
+number:81
+1	4
+3	2
+5	1
+6	2
+9	2
+10	2
+11	2
+12	3
+12/t3
+8
+time:0ms
+number:82
+7	4
+8	2
+9	2
+12	1
+13	1
+15	3
+15/t3
+6
+time:0ms
+number:83
+4	3
+4/t3
+1
+time:0ms
+number:84
+1	2
+3	2
+8	4
+9	1
+10	1
+11	1
+12	3
+12/t3
+7
+time:0ms
+number:85
+1	1
+3	1
+6	2
+7	1
+8	3
+8/t3
+5
+time:0ms
+number:86
+3	2
+5	4
+9	2
+12	3
+12/t3
+4
+time:0ms
+number:87
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:88
+3	2
+6	3
+6/t3
+2
+time:0ms
+number:89
+4	2
+7	3
+7/t3
+2
+time:0ms
+number:90
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:91
+1	2
+2	2
+3	2
+7	1
+9	3
+9/t3
+5
+time:0ms
+number:92
+12	2
+14	1
+19	3
+19/t3
+3
+time:0ms
+number:93
+4	3
+4/t3
+1
+time:0ms
+number:94
+2	1
+11	4
+14	2
+15	2
+16	1
+18	2
+19	1
+24	3
+24/t3
+8
+time:0ms
+number:95
+1	3
+1/t3
+1
+time:0ms
+number:96
+1	1
+2	3
+2/t3
+2
+time:0ms
+number:97
+4	2
+9	2
+11	3
+11/t3
+3
+time:0ms
+number:98
+4	3
+4/t3
+1
+time:0ms
+number:99
+5	1
+6	2
+10	1
+12	2
+13	3
+13/t3
+5
+time:0ms
+number:100
+2	2
+4	2
+5	3
+5/t3
+3
+time:0ms
+number:101
+3	3
+3/t3
+1
+time:0ms
+number:102
+3	2
+7	1
+10	4
+12	3
+12/t3
+4
+time:0ms
+number:103
+3	1
+5	1
+7	4
+8	3
+8/t3
+4
+time:0ms
+number:104
+7	4
+10	3
+10/t3
+2
+time:0ms
+number:105
+1	2
+4	2
+8	3
+8/t3
+3
+time:0ms
+number:106
+4	2
+6	1
+8	4
+14	2
+17	1
+20	3
+20/t3
+6
+time:0ms
+number:107
+3	3
+3/t3
+1
+time:0ms
+number:108
+2	1
+5	2
+16	4
+17	2
+21	2
+22	3
+22/t3
+6
+time:0ms
+number:109
+4	2
+5	1
+7	2
+8	3
+8/t3
+4
+time:0ms
+number:110
+1	1
+5	3
+5/t3
+2
+time:0ms
+number:111
+1	3
+1/t3
+1
+time:0ms
+number:112
+1	3
+1/t3
+1
+time:0ms
+number:113
+4	4
+6	3
+6/t3
+2
+time:0ms
+number:114
+1	3
+1/t3
+1
+time:0ms
+number:115
+1	2
+2	2
+3	3
+3/t3
+3
+time:0ms
+number:116
+2	2
+3	2
+5	3
+5/t3
+3
+time:0ms
+number:117
+3	1
+10	3
+10/t3
+2
+time:0ms
+number:118
+1	4
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:119
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:120
+2	1
+4	2
+7	4
+13	1
+15	3
+15/t3
+5
+time:0ms
+number:121
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:122
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:123
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:124
+4	3
+4/t3
+1
+time:0ms
+number:125
+2	4
+5	3
+5/t3
+2
+time:0ms
+number:126
+3	4
+4	2
+5	1
+7	2
+9	2
+13	3
+13/t3
+6
+time:0ms
+number:127
+1	2
+4	4
+7	3
+7/t3
+3
+time:0ms
+number:128
+3	3
+3/t3
+1
+time:0ms
+number:129
+3	4
+7	2
+8	3
+8/t3
+3
+time:0ms
+number:130
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:131
+1	3
+1/t3
+1
+time:0ms
+number:132
+3	2
+7	3
+7/t3
+2
+time:0ms
+number:133
+1	2
+2	2
+6	2
+13	2
+18	3
+18/t3
+5
+time:0ms
+number:134
+2	3
+2/t3
+1
+time:0ms
+number:135
+1	2
+2	4
+3	1
+4	2
+5	3
+5/t3
+5
+time:0ms
+number:136
+3	3
+3/t3
+1
+time:0ms
+number:137
+4	3
+4/t3
+1
+time:0ms
+number:138
+2	1
+7	3
+7/t3
+2
+time:0ms
+number:139
+1	4
+2	2
+3	3
+3/t3
+3
+time:0ms
+number:140
+1	1
+2	3
+2/t3
+2
+time:0ms
+number:141
+1	3
+1/t3
+1
+time:0ms
+number:142
+8	1
+10	2
+11	1
+16	2
+18	4
+20	2
+22	2
+23	2
+24	2
+26	2
+27	1
+29	2
+30	1
+31	2
+32	2
+33	1
+34	1
+35	3
+35/t3
+18
+time:0ms
+number:143
+6	4
+8	2
+9	1
+12	2
+15	3
+15/t3
+5
+time:0ms
+number:144
+1	2
+6	3
+6/t3
+2
+time:0ms
+number:145
+1	2
+8	3
+8/t3
+2
+time:0ms
+number:146
+3	2
+4	1
+5	2
+6	1
+8	2
+10	1
+12	3
+12/t3
+7
+time:0ms
+number:147
+2	4
+3	1
+11	1
+12	2
+14	1
+15	2
+17	3
+17/t3
+7
+time:0ms
+number:148
+1	1
+4	4
+6	1
+9	2
+10	3
+10/t3
+5
+time:0ms
+number:149
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:150
+3	3
+3/t3
+1
+time:0ms
+number:151
+3	3
+3/t3
+1
+time:0ms
+number:152
+2	3
+2/t3
+1
+time:15ms
+number:153
+5	2
+6	3
+6/t3
+2
+time:0ms
+number:154
+6	1
+9	2
+11	4
+12	2
+13	1
+14	2
+15	3
+15/t3
+7
+time:0ms
+number:155
+1	3
+1/t3
+1
+time:0ms
+number:156
+3	3
+3/t3
+1
+time:0ms
+number:157
+1	2
+5	4
+7	3
+7/t3
+3
+time:0ms
+number:158
+4	1
+6	1
+9	2
+11	3
+11/t3
+4
+time:0ms
+number:159
+3	3
+3/t3
+1
+time:0ms
+number:160
+2	2
+6	4
+7	1
+8	2
+9	3
+9/t3
+5
+time:0ms
+number:161
+1	2
+2	2
+4	3
+4/t3
+3
+time:0ms
+number:162
+2	2
+8	1
+10	2
+16	3
+16/t3
+4
+time:0ms
+number:163
+3	2
+4	3
+4/t3
+2
+time:0ms
+number:164
+3	3
+3/t3
+1
+time:0ms
+number:165
+4	3
+4/t3
+1
+time:0ms
+number:166
+2	3
+2/t3
+1
+time:0ms
+number:167
+1	4
+4	3
+4/t3
+2
+time:0ms
+number:168
+1	3
+1/t3
+1
+time:0ms
+number:169
+2	3
+2/t3
+1
+time:0ms
+number:170
+2	4
+3	2
+8	2
+9	3
+9/t3
+4
+time:0ms
+number:171
+4	3
+4/t3
+1
+time:0ms
+number:172
+2	3
+2/t3
+1
+time:0ms
+number:173
+2	3
+2/t3
+1
+time:0ms
+number:174
+3	4
+5	1
+6	3
+6/t3
+3
+time:0ms
+number:175
+2	3
+2/t3
+1
+time:0ms
+number:176
+3	2
+4	2
+9	4
+11	1
+14	2
+18	3
+18/t3
+6
+time:0ms
+number:177
+2	3
+2/t3
+1
+time:0ms
+number:178
+1	3
+1/t3
+1
+time:0ms
+number:179
+3	4
+6	1
+7	2
+9	3
+9/t3
+4
+time:0ms
+number:180
+2	4
+9	2
+10	2
+11	2
+14	1
+15	3
+15/t3
+6
+time:0ms
+number:181
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:182
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:183
+8	2
+9	2
+10	3
+10/t3
+3
+time:0ms
+number:184
+1	1
+8	3
+8/t3
+2
+time:0ms
+number:185
+1	4
+2	2
+4	2
+5	3
+5/t3
+4
+time:0ms
+number:186
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:187
+2	4
+3	2
+4	2
+5	2
+6	1
+7	2
+11	2
+12	1
+14	3
+14/t3
+9
+time:0ms
+number:188
+8	3
+8/t3
+1
+time:0ms
+number:189
+1	1
+2	3
+2/t3
+2
+time:0ms
+number:190
+2	4
+5	1
+7	1
+8	1
+9	3
+9/t3
+5
+time:0ms
+number:191
+2	3
+2/t3
+1
+time:0ms
+number:192
+1	4
+3	2
+5	1
+6	3
+6/t3
+4
+time:0ms
+number:193
+2	3
+2/t3
+1
+time:0ms
+number:194
+2	2
+12	2
+21	2
+22	4
+26	2
+27	2
+28	2
+30	2
+37	2
+43	2
+44	3
+44/t3
+11
+time:0ms
+number:195
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:196
+2	2
+3	2
+4	3
+4/t3
+3
+time:0ms
+number:197
+1	3
+1/t3
+1
+time:0ms
+number:198
+1	1
+6	1
+7	1
+13	4
+14	2
+15	2
+17	3
+17/t3
+7
+time:0ms
+number:199
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:200
+4	3
+4/t3
+1
+time:0ms
+number:201
+2	1
+4	1
+5	2
+8	4
+10	2
+11	2
+13	3
+13/t3
+7
+time:0ms
+number:202
+1	2
+3	2
+5	3
+5/t3
+3
+time:0ms
+number:203
+1	2
+2	2
+7	4
+8	2
+9	2
+10	2
+12	2
+15	3
+15/t3
+8
+time:0ms
+number:204
+5	4
+6	2
+8	3
+8/t3
+3
+time:0ms
+number:205
+3	2
+4	2
+7	2
+9	3
+9/t3
+4
+time:0ms
+number:206
+1	4
+3	2
+4	2
+6	1
+7	2
+10	1
+11	1
+14	2
+15	2
+16	2
+17	3
+17/t3
+11
+time:0ms
+number:207
+5	4
+9	3
+9/t3
+2
+time:0ms
+number:208
+3	1
+6	1
+7	2
+11	1
+14	2
+20	3
+20/t3
+6
+time:0ms
+number:209
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:210
+3	2
+4	1
+6	4
+8	3
+8/t3
+4
+time:0ms
+number:211
+6	2
+19	2
+30	3
+30/t3
+3
+time:0ms
+number:212
+1	3
+1/t3
+1
+time:0ms
+number:213
+4	3
+4/t3
+1
+time:0ms
+number:214
+1	1
+3	3
+3/t3
+2
+time:0ms
+number:215
+6	2
+7	4
+10	3
+10/t3
+3
+time:0ms
+number:216
+1	4
+2	1
+3	2
+4	2
+6	3
+6/t3
+5
+time:0ms
+number:217
+2	3
+2/t3
+1
+time:0ms
+number:218
+1	1
+4	3
+4/t3
+2
+time:0ms
+number:219
+4	2
+15	1
+16	3
+16/t3
+3
+time:0ms
+number:220
+3	2
+8	2
+9	3
+9/t3
+3
+time:0ms
+number:221
+8	2
+17	2
+21	2
+24	2
+26	2
+33	2
+34	2
+36	3
+36/t3
+8
+time:0ms
+number:222
+4	1
+5	3
+5/t3
+2
+time:0ms
+number:223
+1	3
+1/t3
+1
+time:0ms
+number:224
+3	2
+9	3
+9/t3
+2
+time:0ms
+number:225
+3	3
+3/t3
+1
+time:0ms
+number:226
+3	2
+5	2
+8	2
+9	2
+11	2
+12	3
+12/t3
+6
+time:0ms
+number:227
+1	4
+2	1
+3	3
+3/t3
+3
+time:0ms
+number:228
+3	2
+4	4
+5	1
+6	2
+7	3
+7/t3
+5
+time:0ms
+number:229
+6	1
+9	3
+9/t3
+2
+time:0ms
+number:230
+2	3
+2/t3
+1
+time:0ms
+number:231
+1	2
+6	1
+7	4
+10	2
+11	3
+11/t3
+5
+time:0ms
+number:232
+1	2
+2	4
+3	3
+3/t3
+3
+time:0ms
+number:233
+2	4
+5	2
+8	2
+13	2
+16	3
+16/t3
+5
+time:0ms
+number:234
+4	1
+5	2
+8	2
+9	2
+10	2
+12	3
+12/t3
+6
+time:0ms
+number:235
+1	3
+1/t3
+1
+time:15ms
+number:236
+1	1
+5	3
+5/t3
+2
+time:0ms
+number:237
+2	1
+3	3
+3/t3
+2
+time:0ms
+number:238
+2	2
+3	4
+5	2
+7	3
+7/t3
+4
+time:0ms
+number:239
+3	3
+3/t3
+1
+time:0ms
+number:240
+5	2
+10	3
+10/t3
+2
+time:0ms
+number:241
+2	3
+2/t3
+1
+time:0ms
+number:242
+3	2
+4	2
+7	4
+9	1
+11	1
+15	3
+15/t3
+6
+time:0ms
+number:243
+1	3
+1/t3
+1
+time:0ms
+number:244
+2	1
+3	4
+5	1
+8	3
+8/t3
+4
+time:0ms
+number:245
+1	4
+4	2
+8	3
+8/t3
+3
+time:0ms
+number:246
+10	2
+18	2
+24	3
+24/t3
+3
+time:0ms
+number:247
+1	3
+1/t3
+1
+time:0ms
+number:248
+3	3
+3/t3
+1
+time:0ms
+number:249
+2	3
+2/t3
+1
+time:0ms
+number:250
+2	1
+3	3
+3/t3
+2
+time:0ms
+number:251
+1	4
+2	2
+4	2
+7	3
+7/t3
+4
+time:0ms
+number:252
+2	3
+2/t3
+1
+time:0ms
+number:253
+1	2
+7	3
+7/t3
+2
+time:0ms
+number:254
+5	4
+6	3
+6/t3
+2
+time:0ms
+number:255
+7	3
+7/t3
+1
+time:0ms
+number:256
+1	4
+4	2
+6	2
+7	2
+8	2
+11	2
+12	3
+12/t3
+7
+time:0ms
+number:257
+1	2
+5	4
+6	2
+10	1
+19	2
+21	2
+26	2
+28	1
+29	3
+29/t3
+9
+time:0ms
+number:258
+2	3
+2/t3
+1
+time:0ms
+number:259
+3	2
+8	4
+9	1
+10	2
+11	2
+12	2
+13	1
+14	2
+15	2
+17	3
+17/t3
+10
+time:0ms
+number:260
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:261
+3	2
+4	3
+4/t3
+2
+time:0ms
+number:262
+1	3
+1/t3
+1
+time:0ms
+number:263
+3	3
+3/t3
+1
+time:0ms
+number:264
+1	2
+13	2
+15	4
+16	2
+18	1
+21	1
+22	3
+22/t3
+7
+time:0ms
+number:265
+9	3
+9/t3
+1
+time:0ms
+number:266
+7	3
+7/t3
+1
+time:0ms
+number:267
+3	3
+3/t3
+1
+time:0ms
+number:268
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:269
+1	4
+2	2
+6	3
+6/t3
+3
+time:0ms
+number:270
+1	3
+1/t3
+1
+time:0ms
+number:271
+5	3
+5/t3
+1
+time:0ms
+number:272
+6	1
+9	3
+9/t3
+2
+time:0ms
+number:273
+3	2
+8	4
+14	1
+15	2
+17	1
+19	2
+21	2
+22	1
+23	3
+23/t3
+9
+time:0ms
+number:274
+1	2
+5	2
+7	4
+9	1
+11	1
+12	1
+13	2
+15	3
+15/t3
+8
+time:0ms
+number:275
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:276
+1	2
+3	1
+4	2
+9	4
+10	1
+11	3
+11/t3
+6
+time:0ms
+number:277
+4	4
+5	1
+6	2
+7	2
+8	3
+8/t3
+5
+time:0ms
+number:278
+1	3
+1/t3
+1
+time:0ms
+number:279
+5	2
+18	2
+23	1
+29	3
+29/t3
+4
+time:0ms
+number:280
+1	2
+5	3
+5/t3
+2
+time:0ms
+number:281
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:282
+1	3
+1/t3
+1
+time:0ms
+number:283
+2	3
+2/t3
+1
+time:0ms
+number:284
+3	1
+4	1
+5	1
+9	3
+9/t3
+4
+time:0ms
+number:285
+3	1
+6	1
+7	2
+11	1
+12	1
+16	2
+18	3
+18/t3
+7
+time:0ms
+number:286
+1	2
+2	4
+5	3
+5/t3
+3
+time:0ms
+number:287
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:288
+2	2
+6	1
+7	1
+9	2
+15	3
+15/t3
+5
+time:0ms
+number:289
+5	3
+5/t3
+1
+time:0ms
+number:290
+5	2
+11	2
+12	1
+13	2
+15	1
+17	3
+17/t3
+6
+time:0ms
+number:291
+6	4
+9	2
+10	3
+10/t3
+3
+time:0ms
+number:292
+1	2
+2	4
+3	1
+4	3
+4/t3
+4
+time:0ms
+number:293
+1	2
+3	4
+4	2
+5	1
+6	2
+7	1
+9	1
+10	2
+11	2
+12	3
+12/t3
+10
+time:0ms
+number:294
+1	3
+1/t3
+1
+time:0ms
+number:295
+1	3
+1/t3
+1
+time:0ms
+number:296
+3	3
+3/t3
+1
+time:0ms
+number:297
+1	2
+2	2
+3	4
+4	3
+4/t3
+4
+time:0ms
+number:298
+1	3
+1/t3
+1
+time:0ms
+number:299
+10	1
+12	1
+13	4
+14	1
+15	2
+17	1
+18	3
+18/t3
+7
+time:0ms
+number:300
+2	3
+2/t3
+1
+time:0ms
+number:301
+2	1
+4	3
+4/t3
+2
+time:0ms
+number:302
+4	2
+5	3
+5/t3
+2
+time:0ms
+number:303
+1	2
+6	1
+7	3
+7/t3
+3
+time:0ms
+number:304
+1	3
+1/t3
+1
+time:0ms
+number:305
+1	2
+4	4
+5	1
+8	3
+8/t3
+4
+time:0ms
+number:306
+2	3
+2/t3
+1
+time:0ms
+number:307
+2	3
+2/t3
+1
+time:0ms
+number:308
+2	1
+9	3
+9/t3
+2
+time:0ms
+number:309
+1	2
+6	3
+6/t3
+2
+time:0ms
+number:310
+1	3
+1/t3
+1
+time:0ms
+number:311
+1	1
+3	3
+3/t3
+2
+time:0ms
+number:312
+2	3
+2/t3
+1
+time:0ms
+number:313
+3	2
+5	4
+6	2
+10	2
+14	1
+16	1
+24	2
+30	3
+30/t3
+8
+time:0ms
+number:314
+1	2
+3	2
+7	2
+9	2
+14	3
+14/t3
+5
+time:0ms
+number:315
+6	3
+6/t3
+1
+time:0ms
+number:316
+4	2
+8	2
+13	4
+14	3
+14/t3
+4
+time:0ms
+number:317
+1	2
+4	4
+5	3
+5/t3
+3
+time:0ms
+number:318
+1	1
+5	4
+8	2
+9	1
+10	3
+10/t3
+5
+time:0ms
+number:319
+7	3
+7/t3
+1
+time:0ms
+number:320
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:321
+1	3
+1/t3
+1
+time:0ms
+number:322
+2	2
+4	1
+5	4
+6	3
+6/t3
+4
+time:0ms
+number:323
+3	3
+3/t3
+1
+time:0ms
+number:324
+4	3
+4/t3
+1
+time:0ms
+number:325
+1	4
+3	2
+5	2
+8	1
+10	2
+13	1
+14	3
+14/t3
+7
+time:0ms
+number:326
+1	3
+1/t3
+1
+time:0ms
+number:327
+4	4
+5	1
+6	3
+6/t3
+3
+time:0ms
+number:328
+2	1
+3	3
+3/t3
+2
+time:0ms
+number:329
+2	3
+2/t3
+1
+time:0ms
+number:330
+2	2
+3	4
+6	2
+7	2
+8	3
+8/t3
+5
+time:0ms
+number:331
+2	4
+5	2
+9	3
+9/t3
+3
+time:0ms
+number:332
+1	1
+3	2
+4	3
+4/t3
+3
+time:0ms
+number:333
+2	2
+4	2
+7	2
+8	3
+8/t3
+4
+time:0ms
+number:334
+1	4
+3	1
+4	1
+5	2
+7	3
+7/t3
+5
+time:0ms
+number:335
+1	2
+3	4
+5	3
+5/t3
+3
+time:0ms
+number:336
+1	3
+1/t3
+1
+time:0ms
+number:337
+1	3
+1/t3
+1
+time:0ms
+number:338
+5	4
+6	2
+9	2
+12	2
+13	2
+18	3
+18/t3
+6
+time:0ms
+number:339
+1	3
+1/t3
+1
+time:0ms
+number:340
+4	3
+4/t3
+1
+time:0ms
+number:341
+1	2
+2	1
+3	4
+5	3
+5/t3
+4
+time:0ms
+number:342
+3	2
+4	3
+4/t3
+2
+time:0ms
+number:343
+3	3
+3/t3
+1
+time:0ms
+number:344
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:345
+1	2
+6	2
+8	4
+9	3
+9/t3
+4
+time:0ms
+number:346
+4	3
+4/t3
+1
+time:0ms
+number:347
+1	3
+1/t3
+1
+time:0ms
+number:348
+1	3
+1/t3
+1
+time:0ms
+number:349
+1	1
+2	4
+5	3
+5/t3
+3
+time:0ms
+number:350
+3	3
+3/t3
+1
+time:0ms
+number:351
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:352
+4	2
+7	3
+7/t3
+2
+time:0ms
+number:353
+7	2
+13	4
+14	2
+15	1
+17	2
+21	1
+22	1
+24	3
+24/t3
+8
+time:0ms
+number:354
+3	3
+3/t3
+1
+time:0ms
+number:355
+3	3
+3/t3
+1
+time:0ms
+number:356
+1	1
+3	2
+5	4
+6	1
+7	2
+9	2
+12	3
+12/t3
+7
+time:0ms
+number:357
+2	2
+6	3
+6/t3
+2
+time:0ms
+number:358
+1	1
+6	3
+6/t3
+2
+time:0ms
+number:359
+1	3
+1/t3
+1
+time:0ms
+number:360
+3	2
+6	1
+7	4
+9	3
+9/t3
+4
+time:0ms
+number:361
+1	2
+3	4
+6	3
+6/t3
+3
+time:0ms
+number:362
+1	1
+3	4
+6	1
+7	3
+7/t3
+4
+time:0ms
+number:363
+2	2
+4	2
+11	2
+13	2
+14	3
+14/t3
+5
+time:0ms
+number:364
+4	2
+5	1
+8	2
+10	1
+13	3
+13/t3
+5
+time:16ms
+number:365
+1	3
+1/t3
+1
+time:0ms
+number:366
+1	1
+2	2
+3	2
+4	2
+6	1
+8	3
+8/t3
+6
+time:0ms
+number:367
+9	3
+9/t3
+1
+time:0ms
+number:368
+2	3
+2/t3
+1
+time:0ms
+number:369
+4	3
+4/t3
+1
+time:0ms
+number:370
+5	2
+9	3
+9/t3
+2
+time:0ms
+number:371
+1	2
+4	2
+7	1
+8	1
+9	4
+10	3
+10/t3
+6
+time:0ms
+number:372
+3	3
+3/t3
+1
+time:0ms
+number:373
+2	3
+2/t3
+1
+time:0ms
+number:374
+4	1
+7	3
+7/t3
+2
+time:0ms
+number:375
+3	1
+4	2
+5	3
+5/t3
+3
+time:0ms
+number:376
+4	3
+4/t3
+1
+time:0ms
+number:377
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:378
+5	1
+8	2
+14	3
+14/t3
+3
+time:0ms
+number:379
+2	2
+4	2
+6	2
+13	4
+14	1
+15	2
+18	3
+18/t3
+7
+time:0ms
+number:380
+1	3
+1/t3
+1
+time:0ms
+number:381
+3	2
+4	2
+5	1
+13	2
+16	2
+18	3
+18/t3
+6
+time:0ms
+number:382
+1	3
+1/t3
+1
+time:0ms
+number:383
+2	2
+4	3
+4/t3
+2
+time:0ms
+number:384
+1	1
+2	2
+4	1
+8	3
+8/t3
+4
+time:0ms
+number:385
+2	3
+2/t3
+1
+time:0ms
+number:386
+3	3
+3/t3
+1
+time:0ms
+number:387
+4	3
+4/t3
+1
+time:0ms
+number:388
+7	3
+7/t3
+1
+time:0ms
+number:389
+1	4
+3	3
+3/t3
+2
+time:0ms
+number:390
+1	2
+5	4
+6	2
+7	3
+7/t3
+4
+time:0ms
+number:391
+2	3
+2/t3
+1
+time:0ms
+number:392
+1	2
+2	2
+3	3
+3/t3
+3
+time:0ms
+number:393
+1	4
+4	2
+6	2
+8	1
+9	1
+10	1
+11	2
+12	2
+13	2
+17	2
+19	3
+19/t3
+11
+time:0ms
+number:394
+4	3
+4/t3
+1
+time:0ms
+number:395
+2	2
+4	2
+7	3
+7/t3
+3
+time:0ms
+number:396
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:397
+1	2
+3	1
+5	2
+8	3
+8/t3
+4
+time:0ms
+number:398
+1	3
+1/t3
+1
+time:0ms
+number:399
+1	3
+1/t3
+1
+time:0ms
+number:400
+4	1
+8	4
+13	1
+16	3
+16/t3
+4
+time:0ms
+number:401
+1	3
+1/t3
+1
+time:0ms
+number:402
+3	2
+5	3
+5/t3
+2
+time:0ms
+number:403
+1	1
+2	1
+10	3
+10/t3
+3
+time:0ms
+number:404
+2	3
+2/t3
+1
+time:0ms
+number:405
+6	1
+7	3
+7/t3
+2
+time:0ms
+number:406
+1	2
+3	1
+4	4
+5	1
+6	2
+7	2
+8	1
+9	2
+10	2
+12	2
+14	3
+14/t3
+11
+time:0ms
+number:407
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:408
+2	1
+3	3
+3/t3
+2
+time:0ms
+number:409
+2	2
+6	2
+8	3
+8/t3
+3
+time:0ms
+number:410
+7	2
+15	3
+15/t3
+2
+time:0ms
+number:411
+2	1
+3	4
+4	3
+4/t3
+3
+time:0ms
+number:412
+4	3
+4/t3
+1
+time:0ms
+number:413
+2	3
+2/t3
+1
+time:0ms
+number:414
+1	2
+3	1
+6	3
+6/t3
+3
+time:0ms
+number:415
+2	2
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:416
+2	4
+5	3
+5/t3
+2
+time:0ms
+number:417
+5	3
+5/t3
+1
+time:0ms
+number:418
+5	2
+6	1
+13	3
+13/t3
+3
+time:0ms
+number:419
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:420
+5	3
+5/t3
+1
+time:0ms
+number:421
+4	3
+4/t3
+1
+time:0ms
+number:422
+1	3
+1/t3
+1
+time:0ms
+number:423
+4	1
+7	1
+9	1
+12	2
+14	3
+14/t3
+5
+time:0ms
+number:424
+1	1
+6	2
+7	4
+8	3
+8/t3
+4
+time:0ms
+number:425
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:426
+5	2
+6	3
+6/t3
+2
+time:0ms
+number:427
+7	3
+7/t3
+1
+time:0ms
+number:428
+1	3
+1/t3
+1
+time:0ms
+number:429
+1	2
+2	4
+4	2
+5	2
+6	1
+7	3
+7/t3
+6
+time:0ms
+number:430
+8	3
+8/t3
+1
+time:0ms
+number:431
+6	4
+8	1
+9	2
+12	2
+16	2
+17	3
+17/t3
+6
+time:0ms
+number:432
+4	2
+6	4
+9	3
+9/t3
+3
+time:0ms
+number:433
+5	4
+7	2
+11	3
+11/t3
+3
+time:0ms
+number:434
+6	2
+14	3
+14/t3
+2
+time:0ms
+number:435
+2	1
+10	1
+21	1
+22	2
+30	4
+34	1
+35	1
+36	2
+37	3
+37/t3
+9
+time:0ms
+number:436
+2	2
+4	2
+6	3
+6/t3
+3
+time:0ms
+number:437
+4	2
+6	2
+12	1
+14	2
+16	3
+16/t3
+5
+time:0ms
+number:438
+3	1
+4	1
+6	2
+10	2
+13	3
+13/t3
+5
+time:0ms
+number:439
+5	3
+5/t3
+1
+time:0ms
+number:440
+3	3
+3/t3
+1
+time:0ms
+number:441
+1	2
+5	3
+5/t3
+2
+time:0ms
+number:442
+4	3
+4/t3
+1
+time:0ms
+number:443
+6	4
+9	3
+9/t3
+2
+time:0ms
+number:444
+2	4
+3	2
+7	1
+9	2
+10	3
+10/t3
+5
+time:0ms
+number:445
+5	1
+10	4
+12	3
+12/t3
+3
+time:0ms
+number:446
+2	3
+2/t3
+1
+time:0ms
+number:447
+1	3
+1/t3
+1
+time:0ms
+number:448
+1	3
+1/t3
+1
+time:0ms
+number:449
+1	3
+1/t3
+1
+time:0ms
+number:450
+5	2
+6	3
+6/t3
+2
+time:0ms
+number:451
+2	2
+3	4
+4	2
+5	1
+6	2
+7	1
+9	1
+10	3
+10/t3
+8
+time:0ms
+number:452
+3	2
+7	1
+12	2
+16	2
+17	2
+18	3
+18/t3
+6
+time:0ms
+number:453
+2	3
+2/t3
+1
+time:0ms
+number:454
+5	1
+6	3
+6/t3
+2
+time:0ms
+number:455
+3	1
+5	4
+7	2
+9	2
+12	2
+13	2
+15	3
+15/t3
+7
+time:0ms
+number:456
+3	4
+6	2
+7	1
+8	2
+9	2
+12	3
+12/t3
+6
+time:0ms
+number:457
+5	3
+5/t3
+1
+time:0ms
+number:458
+3	1
+10	2
+16	2
+18	2
+25	2
+30	2
+31	1
+32	2
+35	3
+35/t3
+9
+time:0ms
+number:459
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:460
+1	3
+1/t3
+1
+time:0ms
+number:461
+3	3
+3/t3
+1
+time:0ms
+number:462
+1	3
+1/t3
+1
+time:0ms
+number:463
+2	4
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:464
+3	1
+4	3
+4/t3
+2
+time:0ms
+number:465
+1	3
+1/t3
+1
+time:0ms
+number:466
+1	3
+1/t3
+1
+time:0ms
+number:467
+5	1
+10	4
+11	2
+12	1
+15	3
+15/t3
+5
+time:0ms
+number:468
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:469
+1	1
+3	2
+4	3
+4/t3
+3
+time:0ms
+number:470
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:471
+1	1
+6	2
+8	1
+14	1
+15	3
+15/t3
+5
+time:0ms
+number:472
+5	2
+6	4
+8	1
+9	3
+9/t3
+4
+time:0ms
+number:473
+1	2
+3	1
+4	1
+8	3
+8/t3
+4
+time:0ms
+number:474
+3	3
+3/t3
+1
+time:0ms
+number:475
+2	3
+2/t3
+1
+time:0ms
+number:476
+1	2
+2	2
+3	1
+6	3
+6/t3
+4
+time:0ms
+number:477
+1	4
+2	2
+3	2
+4	1
+5	3
+5/t3
+5
+time:0ms
+number:478
+3	2
+4	2
+5	1
+6	2
+11	3
+11/t3
+5
+time:0ms
+number:479
+2	4
+5	2
+6	2
+11	2
+14	3
+14/t3
+5
+time:0ms
+number:480
+4	2
+7	1
+8	4
+14	1
+18	3
+18/t3
+5
+time:0ms
+number:481
+5	3
+5/t3
+1
+time:0ms
+number:482
+3	4
+6	2
+7	2
+8	1
+9	2
+10	3
+10/t3
+6
+time:0ms
+number:483
+2	3
+2/t3
+1
+time:0ms
+number:484
+4	3
+4/t3
+1
+time:0ms
+number:485
+3	1
+14	1
+15	3
+15/t3
+3
+time:0ms
+number:486
+3	2
+4	1
+6	3
+6/t3
+3
+time:0ms
+number:487
+4	2
+5	3
+5/t3
+2
+time:0ms
+number:488
+5	4
+9	3
+9/t3
+2
+time:0ms
+number:489
+1	3
+1/t3
+1
+time:0ms
+number:490
+1	1
+2	3
+2/t3
+2
+time:0ms
+number:491
+1	2
+2	4
+4	2
+8	2
+10	2
+13	3
+13/t3
+6
+time:0ms
+number:492
+4	2
+8	2
+12	2
+15	3
+15/t3
+4
+time:0ms
+number:493
+2	4
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:494
+3	4
+6	3
+6/t3
+2
+time:0ms
+number:495
+4	3
+4/t3
+1
+time:0ms
+number:496
+5	4
+7	1
+8	2
+14	2
+15	1
+17	2
+18	2
+21	1
+24	3
+24/t3
+9
+time:16ms
+number:497
+1	4
+3	1
+5	2
+6	2
+8	1
+9	3
+9/t3
+6
+time:0ms
+number:498
+2	3
+2/t3
+1
+time:0ms
+number:499
+2	2
+4	2
+11	4
+12	1
+13	3
+13/t3
+5
+time:0ms
+number:500
+7	1
+9	1
+10	3
+10/t3
+3
+time:0ms
+number:501
+1	3
+1/t3
+1
+time:0ms
+number:502
+2	3
+2/t3
+1
+time:0ms
+number:503
+1	1
+3	3
+3/t3
+2
+time:0ms
+number:504
+1	2
+6	2
+9	4
+10	3
+10/t3
+4
+time:0ms
+number:505
+1	4
+4	1
+6	3
+6/t3
+3
+time:0ms
+number:506
+9	3
+9/t3
+1
+time:0ms
+number:507
+2	2
+4	4
+7	2
+9	2
+10	2
+13	2
+18	1
+19	1
+20	2
+25	2
+26	3
+26/t3
+11
+time:0ms
+number:508
+3	2
+9	1
+12	3
+12/t3
+3
+time:0ms
+number:509
+2	4
+6	3
+6/t3
+2
+time:0ms
+number:510
+3	3
+3/t3
+1
+time:0ms
+number:511
+1	4
+4	3
+4/t3
+2
+time:0ms
+number:512
+3	2
+5	1
+6	2
+7	2
+8	3
+8/t3
+5
+time:0ms
+number:513
+1	1
+2	2
+4	3
+4/t3
+3
+time:0ms
+number:514
+1	4
+2	2
+3	2
+4	1
+7	1
+8	3
+8/t3
+6
+time:0ms
+number:515
+11	3
+11/t3
+1
+time:0ms
+number:516
+2	2
+7	3
+7/t3
+2
+time:0ms
+number:517
+4	4
+5	1
+6	1
+7	2
+9	2
+10	2
+12	2
+13	2
+14	1
+15	2
+16	2
+17	3
+17/t3
+12
+time:0ms
+number:518
+6	1
+8	3
+8/t3
+2
+time:0ms
+number:519
+1	2
+8	4
+9	1
+12	2
+13	3
+13/t3
+5
+time:0ms
+number:520
+7	2
+8	1
+11	1
+13	2
+14	4
+18	2
+24	3
+24/t3
+7
+time:0ms
+number:521
+6	3
+6/t3
+1
+time:0ms
+number:522
+2	1
+5	3
+5/t3
+2
+time:0ms
+number:523
+3	2
+4	1
+6	3
+6/t3
+3
+time:0ms
+number:524
+5	4
+7	3
+7/t3
+2
+time:0ms
+number:525
+3	2
+6	2
+7	3
+7/t3
+3
+time:0ms
+number:526
+6	3
+6/t3
+1
+time:0ms
+number:527
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:528
+1	2
+2	2
+6	2
+10	1
+15	4
+16	1
+18	3
+18/t3
+7
+time:0ms
+number:529
+1	3
+1/t3
+1
+time:0ms
+number:530
+4	2
+6	2
+7	2
+8	3
+8/t3
+4
+time:0ms
+number:531
+2	1
+4	3
+4/t3
+2
+time:0ms
+number:532
+2	1
+3	2
+9	3
+9/t3
+3
+time:0ms
+number:533
+1	1
+3	3
+3/t3
+2
+time:0ms
+number:534
+4	3
+4/t3
+1
+time:0ms
+number:535
+2	3
+2/t3
+1
+time:0ms
+number:536
+4	3
+4/t3
+1
+time:0ms
+number:537
+1	1
+8	4
+9	3
+9/t3
+3
+time:0ms
+number:538
+1	3
+1/t3
+1
+time:0ms
+number:539
+1	2
+2	2
+3	4
+4	2
+9	1
+10	1
+11	2
+12	2
+13	1
+14	2
+15	3
+15/t3
+11
+time:15ms
+number:540
+2	2
+10	3
+10/t3
+2
+time:0ms
+number:541
+3	3
+3/t3
+1
+time:0ms
+number:542
+2	4
+9	1
+10	2
+11	2
+13	1
+18	1
+20	3
+20/t3
+7
+time:0ms
+number:543
+2	3
+2/t3
+1
+time:0ms
+number:544
+1	3
+1/t3
+1
+time:0ms
+number:545
+2	2
+5	3
+5/t3
+2
+time:0ms
+number:546
+3	3
+3/t3
+1
+time:0ms
+number:547
+4	2
+6	3
+6/t3
+2
+time:0ms
+number:548
+3	2
+4	3
+4/t3
+2
+time:0ms
+number:549
+2	3
+2/t3
+1
+time:0ms
+number:550
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:551
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:552
+4	3
+4/t3
+1
+time:0ms
+number:553
+1	1
+5	2
+11	4
+12	1
+15	1
+16	2
+18	2
+19	2
+21	1
+22	1
+24	2
+26	1
+27	2
+31	2
+32	3
+32/t3
+15
+time:0ms
+number:554
+3	2
+6	3
+6/t3
+2
+time:0ms
+number:555
+1	4
+5	3
+5/t3
+2
+time:0ms
+number:556
+1	3
+1/t3
+1
+time:0ms
+number:557
+3	1
+4	1
+5	3
+5/t3
+3
+time:0ms
+number:558
+1	3
+1/t3
+1
+time:0ms
+number:559
+2	2
+7	3
+7/t3
+2
+time:0ms
+number:560
+2	3
+2/t3
+1
+time:0ms
+number:561
+1	2
+3	2
+8	2
+9	3
+9/t3
+4
+time:0ms
+number:562
+1	2
+2	4
+4	2
+5	2
+7	2
+9	2
+10	1
+11	1
+13	2
+15	3
+15/t3
+10
+time:0ms
+number:563
+4	3
+4/t3
+1
+time:0ms
+number:564
+4	2
+10	1
+23	4
+25	1
+27	2
+28	2
+29	2
+32	2
+33	3
+33/t3
+9
+time:0ms
+number:565
+3	3
+3/t3
+1
+time:0ms
+number:566
+1	2
+5	3
+5/t3
+2
+time:0ms
+number:567
+3	1
+7	3
+7/t3
+2
+time:0ms
+number:568
+3	4
+6	3
+6/t3
+2
+time:0ms
+number:569
+6	3
+6/t3
+1
+time:0ms
+number:570
+4	3
+4/t3
+1
+time:0ms
+number:571
+2	2
+8	2
+10	4
+13	2
+17	2
+19	2
+20	1
+21	2
+22	1
+26	3
+26/t3
+10
+time:0ms
+number:572
+4	2
+9	3
+9/t3
+2
+time:0ms
+number:573
+1	2
+4	4
+5	2
+7	2
+8	2
+9	2
+10	3
+10/t3
+7
+time:0ms
+number:574
+5	2
+9	4
+11	2
+12	1
+15	1
+16	2
+17	3
+17/t3
+7
+time:0ms
+number:575
+4	3
+4/t3
+1
+time:0ms
+number:576
+1	3
+1/t3
+1
+time:0ms
+number:577
+2	3
+2/t3
+1
+time:0ms
+number:578
+4	1
+13	1
+16	3
+16/t3
+3
+time:0ms
+number:579
+3	3
+3/t3
+1
+time:0ms
+number:580
+3	2
+11	3
+11/t3
+2
+time:0ms
+number:581
+3	3
+3/t3
+1
+time:0ms
+number:582
+3	3
+3/t3
+1
+time:16ms
+number:583
+1	3
+1/t3
+1
+time:0ms
+number:584
+2	4
+3	2
+4	3
+4/t3
+3
+time:0ms
+number:585
+3	3
+3/t3
+1
+time:0ms
+number:586
+2	3
+2/t3
+1
+time:0ms
+number:587
+6	2
+7	1
+10	4
+11	3
+11/t3
+4
+time:0ms
+number:588
+7	2
+9	4
+14	2
+15	2
+16	1
+23	2
+24	2
+26	1
+28	2
+29	3
+29/t3
+10
+time:0ms
+number:589
+2	3
+2/t3
+1
+time:0ms
+number:590
+2	3
+2/t3
+1
+time:0ms
+number:591
+3	3
+3/t3
+1
+time:0ms
+number:592
+5	2
+7	1
+8	4
+10	3
+10/t3
+4
+time:0ms
+number:593
+1	2
+6	2
+9	2
+10	4
+12	3
+12/t3
+5
+time:0ms
+number:594
+2	4
+3	1
+5	3
+5/t3
+3
+time:0ms
+number:595
+1	3
+1/t3
+1
+time:0ms
+number:596
+3	4
+9	2
+14	2
+16	2
+18	1
+20	1
+21	3
+21/t3
+7
+time:0ms
+number:597
+2	3
+2/t3
+1
+time:0ms
+number:598
+2	2
+5	3
+5/t3
+2
+time:0ms
+number:599
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:600
+1	3
+1/t3
+1
+time:0ms
+number:601
+1	3
+1/t3
+1
+time:0ms
+number:602
+2	2
+5	4
+8	3
+8/t3
+3
+time:0ms
+number:603
+4	3
+4/t3
+1
+time:0ms
+number:604
+3	1
+4	2
+7	2
+10	2
+11	2
+14	3
+14/t3
+6
+time:0ms
+number:605
+1	4
+5	3
+5/t3
+2
+time:0ms
+number:606
+1	1
+2	2
+5	3
+5/t3
+3
+time:0ms
+number:607
+9	4
+13	1
+18	1
+19	3
+19/t3
+4
+time:0ms
+number:608
+2	3
+2/t3
+1
+time:0ms
+number:609
+1	3
+1/t3
+1
+time:0ms
+number:610
+2	2
+4	3
+4/t3
+2
+time:0ms
+number:611
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:612
+2	1
+4	2
+11	2
+12	4
+13	1
+14	1
+15	2
+16	3
+16/t3
+8
+time:0ms
+number:613
+3	3
+3/t3
+1
+time:0ms
+number:614
+1	2
+3	4
+5	1
+7	1
+11	2
+12	3
+12/t3
+6
+time:0ms
+number:615
+1	3
+1/t3
+1
+time:0ms
+number:616
+1	1
+2	1
+6	4
+8	2
+9	2
+12	3
+12/t3
+6
+time:0ms
+number:617
+3	3
+3/t3
+1
+time:0ms
+number:618
+1	4
+3	2
+5	2
+9	2
+10	1
+11	3
+11/t3
+6
+time:0ms
+number:619
+7	2
+8	3
+8/t3
+2
+time:0ms
+number:620
+1	1
+2	1
+4	4
+5	3
+5/t3
+4
+time:0ms
+number:621
+2	4
+5	1
+6	3
+6/t3
+3
+time:0ms
+number:622
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:623
+4	2
+5	4
+8	1
+9	1
+10	3
+10/t3
+5
+time:0ms
+number:624
+1	1
+14	4
+15	2
+17	2
+20	3
+20/t3
+5
+time:0ms
+number:625
+2	1
+3	1
+6	2
+8	3
+8/t3
+4
+time:0ms
+number:626
+3	2
+4	1
+6	2
+10	2
+12	2
+18	1
+19	2
+21	2
+22	2
+25	4
+27	2
+28	2
+29	1
+31	2
+33	1
+34	3
+34/t3
+16
+time:0ms
+number:627
+1	2
+2	1
+4	2
+6	1
+7	3
+7/t3
+5
+time:0ms
+number:628
+1	1
+2	1
+4	2
+6	2
+8	1
+9	1
+10	3
+10/t3
+7
+time:0ms
+number:629
+3	1
+7	4
+9	1
+11	1
+13	3
+13/t3
+5
+time:0ms
+number:630
+3	1
+6	1
+8	2
+9	2
+10	3
+10/t3
+5
+time:0ms
+number:631
+3	4
+4	3
+4/t3
+2
+time:0ms
+number:632
+2	2
+3	2
+5	3
+5/t3
+3
+time:0ms
+number:633
+2	2
+4	4
+7	2
+9	1
+10	1
+12	2
+14	3
+14/t3
+7
+time:0ms
+number:634
+1	3
+1/t3
+1
+time:0ms
+number:635
+1	3
+1/t3
+1
+time:0ms
+number:636
+1	2
+5	1
+13	1
+15	3
+15/t3
+4
+time:0ms
+number:637
+1	4
+2	2
+5	2
+6	2
+7	2
+11	1
+14	3
+14/t3
+7
+time:0ms
+number:638
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:639
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:640
+6	1
+8	1
+9	3
+9/t3
+3
+time:0ms
+number:641
+1	3
+1/t3
+1
+time:0ms
+number:642
+9	1
+11	3
+11/t3
+2
+time:0ms
+number:643
+7	2
+8	2
+12	1
+14	2
+15	2
+19	4
+20	3
+20/t3
+7
+time:0ms
+number:644
+3	2
+5	3
+5/t3
+2
+time:0ms
+number:645
+1	1
+7	2
+8	2
+9	2
+10	2
+11	2
+14	2
+16	2
+19	3
+19/t3
+9
+time:0ms
+number:646
+1	2
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:647
+4	2
+5	1
+8	2
+10	4
+14	1
+15	3
+15/t3
+6
+time:0ms
+number:648
+2	3
+2/t3
+1
+time:0ms
+number:649
+7	1
+9	3
+9/t3
+2
+time:0ms
+number:650
+3	1
+9	3
+9/t3
+2
+time:0ms
+number:651
+1	3
+1/t3
+1
+time:0ms
+number:652
+2	2
+7	2
+10	3
+10/t3
+3
+time:0ms
+number:653
+2	1
+3	2
+5	3
+5/t3
+3
+time:0ms
+number:654
+3	3
+3/t3
+1
+time:0ms
+number:655
+4	1
+5	2
+7	2
+9	1
+10	3
+10/t3
+5
+time:0ms
+number:656
+6	2
+7	2
+8	4
+10	2
+11	2
+15	2
+16	2
+17	3
+17/t3
+8
+time:0ms
+number:657
+1	2
+5	2
+6	1
+7	1
+8	3
+8/t3
+5
+time:0ms
+number:658
+1	3
+1/t3
+1
+time:0ms
+number:659
+1	4
+3	3
+3/t3
+2
+time:0ms
+number:660
+1	2
+8	3
+8/t3
+2
+time:0ms
+number:661
+1	1
+3	2
+5	2
+8	4
+10	3
+10/t3
+5
+time:0ms
+number:662
+1	3
+1/t3
+1
+time:0ms
+number:663
+1	1
+3	2
+5	3
+5/t3
+3
+time:0ms
+number:664
+1	2
+4	2
+5	1
+8	1
+9	3
+9/t3
+5
+time:0ms
+number:665
+5	4
+6	1
+9	3
+9/t3
+3
+time:0ms
+number:666
+1	3
+1/t3
+1
+time:0ms
+number:667
+2	2
+8	3
+8/t3
+2
+time:0ms
+number:668
+4	2
+5	3
+5/t3
+2
+time:0ms
+number:669
+1	3
+1/t3
+1
+time:0ms
+number:670
+2	2
+6	4
+8	2
+9	1
+10	2
+11	1
+13	3
+13/t3
+7
+time:0ms
+number:671
+3	2
+8	4
+13	3
+13/t3
+3
+time:0ms
+number:672
+15	2
+18	2
+21	2
+24	4
+28	1
+31	3
+31/t3
+6
+time:0ms
+number:673
+3	3
+3/t3
+1
+time:0ms
+number:674
+1	2
+3	4
+4	3
+4/t3
+3
+time:0ms
+number:675
+2	3
+2/t3
+1
+time:0ms
+number:676
+3	2
+4	1
+8	3
+8/t3
+3
+time:0ms
+number:677
+3	4
+4	1
+5	1
+6	1
+7	1
+8	2
+13	2
+15	2
+20	2
+21	2
+22	2
+23	1
+25	1
+27	2
+28	3
+28/t3
+15
+time:16ms
+number:678
+1	4
+4	2
+7	2
+8	3
+8/t3
+4
+time:0ms
+number:679
+1	4
+2	2
+6	2
+7	3
+7/t3
+4
+time:0ms
+number:680
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:681
+2	3
+2/t3
+1
+time:0ms
+number:682
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:683
+1	3
+1/t3
+1
+time:0ms
+number:684
+2	2
+4	1
+6	2
+7	3
+7/t3
+4
+time:0ms
+number:685
+4	1
+5	3
+5/t3
+2
+time:0ms
+number:686
+1	3
+1/t3
+1
+time:0ms
+number:687
+3	3
+3/t3
+1
+time:0ms
+number:688
+1	3
+1/t3
+1
+time:0ms
+number:689
+4	3
+4/t3
+1
+time:0ms
+number:690
+2	3
+2/t3
+1
+time:0ms
+number:691
+2	3
+2/t3
+1
+time:0ms
+number:692
+1	1
+3	2
+4	3
+4/t3
+3
+time:0ms
+number:693
+4	2
+6	1
+9	3
+9/t3
+3
+time:0ms
+number:694
+4	3
+4/t3
+1
+time:0ms
+number:695
+6	2
+8	3
+8/t3
+2
+time:0ms
+number:696
+2	3
+2/t3
+1
+time:0ms
+number:697
+2	4
+3	1
+5	2
+6	1
+10	1
+11	2
+12	3
+12/t3
+7
+time:0ms
+number:698
+1	3
+1/t3
+1
+time:0ms
+number:699
+3	2
+6	4
+7	3
+7/t3
+3
+time:0ms
+number:700
+13	2
+14	2
+15	3
+15/t3
+3
+time:0ms
+number:701
+1	3
+1/t3
+1
+time:0ms
+number:702
+1	3
+1/t3
+1
+time:0ms
+number:703
+1	3
+1/t3
+1
+time:0ms
+number:704
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:705
+1	3
+1/t3
+1
+time:0ms
+number:706
+1	2
+2	4
+3	2
+5	2
+6	1
+7	3
+7/t3
+6
+time:0ms
+number:707
+1	2
+3	1
+4	2
+9	4
+12	2
+13	1
+14	2
+16	2
+17	3
+17/t3
+9
+time:0ms
+number:708
+1	2
+3	2
+4	1
+5	3
+5/t3
+4
+time:0ms
+number:709
+1	2
+5	1
+8	1
+9	3
+9/t3
+4
+time:0ms
+number:710
+1	1
+2	1
+4	2
+9	3
+9/t3
+4
+time:0ms
+number:711
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:712
+5	3
+5/t3
+1
+time:0ms
+number:713
+1	2
+4	1
+6	1
+7	4
+10	2
+12	2
+16	2
+17	2
+20	2
+22	3
+22/t3
+10
+time:0ms
+number:714
+2	1
+3	4
+4	3
+4/t3
+3
+time:0ms
+number:715
+1	2
+2	1
+11	2
+12	4
+13	1
+16	1
+17	3
+17/t3
+7
+time:0ms
+number:716
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:717
+11	3
+11/t3
+1
+time:0ms
+number:718
+3	2
+5	1
+6	2
+8	3
+8/t3
+4
+time:15ms
+number:719
+1	1
+2	4
+5	3
+5/t3
+3
+time:0ms
+number:720
+1	1
+3	2
+4	2
+8	3
+8/t3
+4
+time:0ms
+number:721
+1	4
+4	2
+7	1
+8	1
+9	1
+11	1
+14	2
+16	2
+18	3
+18/t3
+9
+time:0ms
+number:722
+7	1
+8	3
+8/t3
+2
+time:0ms
+number:723
+3	2
+6	4
+7	2
+9	3
+9/t3
+4
+time:0ms
+number:724
+1	3
+1/t3
+1
+time:0ms
+number:725
+1	3
+1/t3
+1
+time:0ms
+number:726
+2	4
+9	3
+9/t3
+2
+time:0ms
+number:727
+1	2
+2	2
+3	4
+8	1
+9	1
+10	3
+10/t3
+6
+time:0ms
+number:728
+1	4
+3	2
+6	2
+8	2
+9	1
+10	2
+12	3
+12/t3
+7
+time:0ms
+number:729
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:730
+5	2
+15	4
+16	2
+19	3
+19/t3
+4
+time:0ms
+number:731
+2	4
+3	2
+5	3
+5/t3
+3
+time:0ms
+number:732
+3	3
+3/t3
+1
+time:0ms
+number:733
+3	2
+4	2
+9	3
+9/t3
+3
+time:0ms
+number:734
+2	1
+4	1
+7	3
+7/t3
+3
+time:0ms
+number:735
+3	4
+4	2
+6	2
+7	3
+7/t3
+4
+time:0ms
+number:736
+2	3
+2/t3
+1
+time:0ms
+number:737
+4	3
+4/t3
+1
+time:0ms
+number:738
+5	4
+6	2
+7	3
+7/t3
+3
+time:0ms
+number:739
+2	2
+6	3
+6/t3
+2
+time:0ms
+number:740
+4	3
+4/t3
+1
+time:0ms
+number:741
+4	3
+4/t3
+1
+time:0ms
+number:742
+1	2
+7	3
+7/t3
+2
+time:0ms
+number:743
+1	3
+1/t3
+1
+time:0ms
+number:744
+3	3
+3/t3
+1
+time:0ms
+number:745
+2	4
+3	2
+4	3
+4/t3
+3
+time:0ms
+number:746
+2	3
+2/t3
+1
+time:0ms
+number:747
+4	1
+5	3
+5/t3
+2
+time:0ms
+number:748
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:749
+3	2
+8	2
+18	2
+19	4
+21	1
+24	1
+25	1
+26	2
+28	1
+29	2
+31	1
+32	3
+32/t3
+12
+time:0ms
+number:750
+4	4
+5	3
+5/t3
+2
+time:0ms
+number:751
+1	1
+7	2
+8	3
+8/t3
+3
+time:16ms
+number:752
+7	3
+7/t3
+1
+time:0ms
+number:753
+6	4
+7	1
+10	2
+11	2
+13	1
+14	2
+15	2
+20	2
+22	3
+22/t3
+9
+time:0ms
+number:754
+1	2
+3	4
+5	1
+6	3
+6/t3
+4
+time:0ms
+number:755
+3	3
+3/t3
+1
+time:0ms
+number:756
+3	2
+4	2
+5	3
+5/t3
+3
+time:0ms
+number:757
+1	2
+2	2
+3	4
+5	3
+5/t3
+4
+time:0ms
+number:758
+1	2
+6	3
+6/t3
+2
+time:0ms
+number:759
+8	3
+8/t3
+1
+time:0ms
+number:760
+6	3
+6/t3
+1
+time:0ms
+number:761
+2	1
+3	3
+3/t3
+2
+time:0ms
+number:762
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:763
+2	3
+2/t3
+1
+time:0ms
+number:764
+3	4
+7	3
+7/t3
+2
+time:0ms
+number:765
+2	1
+3	2
+4	4
+5	1
+6	3
+6/t3
+5
+time:0ms
+number:766
+1	3
+1/t3
+1
+time:0ms
+number:767
+4	1
+7	2
+8	4
+9	3
+9/t3
+4
+time:0ms
+number:768
+3	2
+6	3
+6/t3
+2
+time:0ms
+number:769
+8	3
+8/t3
+1
+time:0ms
+number:770
+2	2
+4	1
+8	4
+9	3
+9/t3
+4
+time:0ms
+number:771
+1	4
+9	1
+10	3
+10/t3
+3
+time:0ms
+number:772
+2	1
+4	3
+4/t3
+2
+time:0ms
+number:773
+1	3
+1/t3
+1
+time:0ms
+number:774
+4	2
+8	2
+9	1
+12	2
+14	3
+14/t3
+5
+time:0ms
+number:775
+1	4
+2	2
+3	2
+5	2
+6	1
+7	1
+8	2
+9	3
+9/t3
+8
+time:0ms
+number:776
+2	3
+2/t3
+1
+time:0ms
+number:777
+12	3
+12/t3
+1
+time:0ms
+number:778
+2	3
+2/t3
+1
+time:0ms
+number:779
+1	2
+3	1
+7	2
+15	1
+18	3
+18/t3
+5
+time:0ms
+number:780
+1	4
+2	1
+3	2
+6	1
+8	2
+9	1
+10	3
+10/t3
+7
+time:0ms
+number:781
+5	2
+6	2
+7	2
+13	2
+16	3
+16/t3
+5
+time:0ms
+number:782
+1	3
+1/t3
+1
+time:0ms
+number:783
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:784
+1	2
+5	2
+6	2
+7	4
+9	1
+12	3
+12/t3
+6
+time:0ms
+number:785
+4	2
+8	4
+11	3
+11/t3
+3
+time:16ms
+number:786
+2	2
+4	2
+5	2
+6	3
+6/t3
+4
+time:0ms
+number:787
+2	2
+5	2
+9	4
+10	3
+10/t3
+4
+time:0ms
+number:788
+1	3
+1/t3
+1
+time:0ms
+number:789
+4	2
+8	2
+18	3
+18/t3
+3
+time:0ms
+number:790
+2	2
+3	2
+6	1
+9	4
+10	1
+11	3
+11/t3
+6
+time:0ms
+number:791
+3	3
+3/t3
+1
+time:0ms
+number:792
+7	2
+8	2
+12	3
+12/t3
+3
+time:0ms
+number:793
+1	3
+1/t3
+1
+time:0ms
+number:794
+6	3
+6/t3
+1
+time:0ms
+number:795
+1	4
+3	2
+7	3
+7/t3
+3
+time:0ms
+number:796
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:797
+2	2
+3	2
+14	2
+21	1
+25	2
+26	3
+26/t3
+6
+time:0ms
+number:798
+1	3
+1/t3
+1
+time:0ms
+number:799
+1	1
+3	2
+5	2
+6	4
+9	2
+10	2
+11	3
+11/t3
+7
+time:0ms
+number:800
+3	4
+4	3
+4/t3
+2
+time:0ms
+number:801
+1	2
+4	3
+4/t3
+2
+time:0ms
+number:802
+6	3
+6/t3
+1
+time:0ms
+number:803
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:804
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:805
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:806
+1	4
+3	2
+4	3
+4/t3
+3
+time:0ms
+number:807
+1	1
+2	3
+2/t3
+2
+time:0ms
+number:808
+1	3
+1/t3
+1
+time:0ms
+number:809
+1	3
+1/t3
+1
+time:0ms
+number:810
+6	2
+10	4
+12	3
+12/t3
+3
+time:0ms
+number:811
+2	3
+2/t3
+1
+time:0ms
+number:812
+1	2
+5	2
+6	1
+9	2
+14	2
+16	2
+18	1
+24	2
+26	3
+26/t3
+9
+time:0ms
+number:813
+7	2
+8	3
+8/t3
+2
+time:0ms
+number:814
+2	3
+2/t3
+1
+time:0ms
+number:815
+5	2
+9	3
+9/t3
+2
+time:0ms
+number:816
+3	3
+3/t3
+1
+time:0ms
+number:817
+1	3
+1/t3
+1
+time:0ms
+number:818
+1	2
+5	1
+8	4
+9	2
+10	3
+10/t3
+5
+time:0ms
+number:819
+1	2
+2	4
+3	1
+5	1
+6	2
+7	3
+7/t3
+6
+time:0ms
+number:820
+1	3
+1/t3
+1
+time:0ms
+number:821
+5	2
+13	3
+13/t3
+2
+time:0ms
+number:822
+1	3
+1/t3
+1
+time:0ms
+number:823
+1	4
+2	2
+6	2
+7	1
+8	2
+9	3
+9/t3
+6
+time:0ms
+number:824
+1	3
+1/t3
+1
+time:0ms
+number:825
+2	4
+3	1
+6	2
+10	2
+11	2
+13	3
+13/t3
+6
+time:0ms
+number:826
+2	3
+2/t3
+1
+time:0ms
+number:827
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:828
+2	3
+2/t3
+1
+time:0ms
+number:829
+1	3
+1/t3
+1
+time:0ms
+number:830
+2	3
+2/t3
+1
+time:0ms
+number:831
+1	3
+1/t3
+1
+time:0ms
+number:832
+2	2
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:833
+6	1
+7	3
+7/t3
+2
+time:0ms
+number:834
+2	1
+5	2
+9	2
+11	3
+11/t3
+4
+time:0ms
+number:835
+3	3
+3/t3
+1
+time:0ms
+number:836
+1	2
+2	2
+3	2
+4	3
+4/t3
+4
+time:0ms
+number:837
+1	1
+3	4
+13	2
+14	1
+16	1
+17	2
+18	2
+20	2
+22	2
+23	3
+23/t3
+10
+time:0ms
+number:838
+3	2
+11	3
+11/t3
+2
+time:0ms
+number:839
+1	3
+1/t3
+1
+time:0ms
+number:840
+3	3
+3/t3
+1
+time:0ms
+number:841
+1	1
+2	4
+4	3
+4/t3
+3
+time:0ms
+number:842
+4	4
+6	2
+8	2
+9	2
+10	3
+10/t3
+5
+time:0ms
+number:843
+1	4
+3	2
+4	3
+4/t3
+3
+time:0ms
+number:844
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:845
+2	1
+4	3
+4/t3
+2
+time:0ms
+number:846
+5	4
+6	2
+7	1
+9	1
+17	1
+18	1
+19	1
+20	1
+22	3
+22/t3
+9
+time:0ms
+number:847
+1	2
+2	2
+5	3
+5/t3
+3
+time:0ms
+number:848
+11	3
+11/t3
+1
+time:0ms
+number:849
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:850
+4	3
+4/t3
+1
+time:0ms
+number:851
+3	2
+4	1
+5	2
+15	3
+15/t3
+4
+time:0ms
+number:852
+1	3
+1/t3
+1
+time:0ms
+number:853
+6	4
+8	2
+9	3
+9/t3
+3
+time:0ms
+number:854
+4	2
+5	3
+5/t3
+2
+time:0ms
+number:855
+8	2
+11	2
+13	2
+17	2
+18	2
+22	3
+22/t3
+6
+time:0ms
+number:856
+1	1
+6	3
+6/t3
+2
+time:0ms
+number:857
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:858
+3	2
+4	3
+4/t3
+2
+time:0ms
+number:859
+2	1
+8	3
+8/t3
+2
+time:0ms
+number:860
+3	2
+5	2
+10	3
+10/t3
+3
+time:0ms
+number:861
+6	4
+7	3
+7/t3
+2
+time:0ms
+number:862
+2	1
+4	2
+6	3
+6/t3
+3
+time:0ms
+number:863
+10	4
+11	2
+13	3
+13/t3
+3
+time:0ms
+number:864
+4	4
+5	3
+5/t3
+2
+time:0ms
+number:865
+2	2
+8	2
+16	2
+20	4
+21	1
+23	2
+24	1
+25	1
+29	1
+30	3
+30/t3
+10
+time:16ms
+number:866
+1	3
+1/t3
+1
+time:0ms
+number:867
+1	1
+3	2
+7	1
+8	3
+8/t3
+4
+time:0ms
+number:868
+3	1
+4	2
+6	2
+7	2
+8	3
+8/t3
+5
+time:0ms
+number:869
+7	3
+7/t3
+1
+time:0ms
+number:870
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:871
+3	2
+7	3
+7/t3
+2
+time:0ms
+number:872
+3	1
+5	3
+5/t3
+2
+time:0ms
+number:873
+4	2
+11	3
+11/t3
+2
+time:0ms
+number:874
+1	3
+1/t3
+1
+time:0ms
+number:875
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:876
+3	2
+4	1
+5	2
+6	3
+6/t3
+4
+time:0ms
+number:877
+2	3
+2/t3
+1
+time:0ms
+number:878
+9	3
+9/t3
+1
+time:0ms
+number:879
+6	4
+11	2
+12	2
+13	2
+15	3
+15/t3
+5
+time:0ms
+number:880
+1	3
+1/t3
+1
+time:0ms
+number:881
+1	2
+3	2
+5	2
+6	3
+6/t3
+4
+time:0ms
+number:882
+6	2
+11	4
+12	1
+15	3
+15/t3
+4
+time:0ms
+number:883
+1	3
+1/t3
+1
+time:0ms
+number:884
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:885
+2	1
+3	2
+4	2
+7	2
+9	3
+9/t3
+5
+time:0ms
+number:886
+1	2
+2	4
+5	3
+5/t3
+3
+time:0ms
+number:887
+1	3
+1/t3
+1
+time:0ms
+number:888
+3	3
+3/t3
+1
+time:0ms
+number:889
+1	1
+2	1
+5	2
+8	3
+8/t3
+4
+time:0ms
+number:890
+6	4
+7	1
+10	1
+12	1
+14	2
+16	1
+17	2
+20	2
+27	3
+27/t3
+9
+time:0ms
+number:891
+2	2
+6	4
+7	2
+9	1
+11	2
+12	3
+12/t3
+6
+time:0ms
+number:892
+3	1
+4	3
+4/t3
+2
+time:0ms
+number:893
+2	4
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:894
+4	3
+4/t3
+1
+time:0ms
+number:895
+7	3
+7/t3
+1
+time:0ms
+number:896
+13	3
+13/t3
+1
+time:0ms
+number:897
+4	3
+4/t3
+1
+time:0ms
+number:898
+5	3
+5/t3
+1
+time:0ms
+number:899
+4	3
+4/t3
+1
+time:0ms
+number:900
+2	4
+3	2
+4	3
+4/t3
+3
+time:0ms
+number:901
+6	4
+9	2
+13	3
+13/t3
+3
+time:0ms
+number:902
+5	1
+8	1
+11	2
+14	1
+16	2
+17	2
+18	2
+19	4
+21	1
+22	1
+24	3
+24/t3
+11
+time:0ms
+number:903
+2	2
+4	4
+5	2
+6	2
+8	1
+9	2
+11	2
+13	2
+15	1
+16	2
+17	2
+19	3
+19/t3
+12
+time:0ms
+number:904
+2	4
+3	1
+4	3
+4/t3
+3
+time:0ms
+number:905
+3	2
+10	1
+12	3
+12/t3
+3
+time:0ms
+number:906
+1	2
+2	4
+3	2
+7	2
+8	2
+9	3
+9/t3
+6
+time:0ms
+number:907
+1	4
+2	1
+5	2
+9	2
+13	1
+14	2
+16	2
+18	1
+20	3
+20/t3
+9
+time:16ms
+number:908
+1	4
+2	3
+2/t3
+2
+time:0ms
+number:909
+1	3
+1/t3
+1
+time:0ms
+number:910
+1	3
+1/t3
+1
+time:0ms
+number:911
+2	2
+6	1
+11	4
+12	2
+13	2
+14	2
+17	2
+18	2
+19	2
+20	3
+20/t3
+10
+time:0ms
+number:912
+2	4
+5	1
+7	3
+7/t3
+3
+time:0ms
+number:913
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:914
+1	3
+1/t3
+1
+time:0ms
+number:915
+2	1
+6	4
+7	1
+11	2
+12	1
+13	1
+19	3
+19/t3
+7
+time:0ms
+number:916
+2	3
+2/t3
+1
+time:0ms
+number:917
+1	3
+1/t3
+1
+time:0ms
+number:918
+1	1
+3	4
+4	2
+5	1
+9	2
+11	1
+12	2
+19	3
+19/t3
+8
+time:0ms
+number:919
+2	2
+4	1
+6	2
+11	2
+12	3
+12/t3
+5
+time:0ms
+number:920
+2	1
+6	3
+6/t3
+2
+time:0ms
+number:921
+8	3
+8/t3
+1
+time:0ms
+number:922
+1	3
+1/t3
+1
+time:0ms
+number:923
+4	3
+4/t3
+1
+time:0ms
+number:924
+2	4
+3	3
+3/t3
+2
+time:0ms
+number:925
+1	3
+1/t3
+1
+time:0ms
+number:926
+6	3
+6/t3
+1
+time:0ms
+number:927
+2	4
+3	1
+4	1
+7	2
+9	2
+10	2
+11	2
+12	2
+13	2
+15	2
+16	3
+16/t3
+11
+time:0ms
+number:928
+1	2
+5	1
+10	2
+14	3
+14/t3
+4
+time:0ms
+number:929
+2	4
+3	2
+4	1
+5	2
+6	3
+6/t3
+5
+time:0ms
+number:930
+1	3
+1/t3
+1
+time:0ms
+number:931
+2	2
+6	1
+9	2
+10	3
+10/t3
+4
+time:0ms
+number:932
+1	2
+6	3
+6/t3
+2
+time:0ms
+number:933
+2	3
+2/t3
+1
+time:0ms
+number:934
+2	3
+2/t3
+1
+time:0ms
+number:935
+2	2
+5	2
+8	2
+10	3
+10/t3
+4
+time:0ms
+number:936
+1	3
+1/t3
+1
+time:0ms
+number:937
+2	3
+2/t3
+1
+time:0ms
+number:938
+1	2
+9	3
+9/t3
+2
+time:0ms
+number:939
+1	4
+3	2
+5	1
+7	2
+8	2
+9	3
+9/t3
+6
+time:0ms
+number:940
+4	1
+15	2
+17	2
+23	2
+27	4
+28	2
+30	3
+30/t3
+7
+time:0ms
+number:941
+1	4
+2	1
+5	1
+7	2
+9	1
+10	2
+12	2
+13	1
+15	2
+17	1
+18	2
+19	1
+21	2
+25	3
+25/t3
+14
+time:0ms
+number:942
+3	2
+5	2
+9	4
+10	2
+11	1
+13	3
+13/t3
+6
+time:0ms
+number:943
+2	2
+8	1
+9	3
+9/t3
+3
+time:0ms
+number:944
+4	1
+6	1
+7	1
+11	1
+15	3
+15/t3
+5
+time:0ms
+number:945
+1	2
+2	2
+4	3
+4/t3
+3
+time:0ms
+number:946
+2	1
+3	3
+3/t3
+2
+time:0ms
+number:947
+1	1
+2	3
+2/t3
+2
+time:0ms
+number:948
+5	2
+6	1
+7	1
+8	3
+8/t3
+4
+time:0ms
+number:949
+11	2
+12	1
+13	3
+13/t3
+3
+time:0ms
+number:950
+2	4
+4	1
+5	2
+8	3
+8/t3
+4
+time:0ms
+number:951
+1	1
+11	2
+19	2
+21	1
+26	2
+33	3
+33/t3
+6
+time:0ms
+number:952
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:953
+4	3
+4/t3
+1
+time:0ms
+number:954
+5	3
+5/t3
+1
+time:0ms
+number:955
+4	2
+6	2
+12	2
+17	3
+17/t3
+4
+time:0ms
+number:956
+1	2
+2	2
+3	3
+3/t3
+3
+time:0ms
+number:957
+4	2
+5	1
+6	3
+6/t3
+3
+time:0ms
+number:958
+1	4
+3	2
+4	2
+7	3
+7/t3
+4
+time:0ms
+number:959
+6	2
+7	2
+9	2
+12	2
+19	4
+21	2
+24	2
+25	3
+25/t3
+8
+time:0ms
+number:960
+3	3
+3/t3
+1
+time:0ms
+number:961
+1	1
+4	3
+4/t3
+2
+time:0ms
+number:962
+4	2
+10	2
+14	3
+14/t3
+3
+time:0ms
+number:963
+3	4
+6	1
+7	2
+9	3
+9/t3
+4
+time:0ms
+number:964
+1	3
+1/t3
+1
+time:0ms
+number:965
+1	1
+4	2
+5	3
+5/t3
+3
+time:0ms
+number:966
+2	2
+3	3
+3/t3
+2
+time:0ms
+number:967
+2	4
+3	1
+5	3
+5/t3
+3
+time:0ms
+number:968
+2	4
+6	3
+6/t3
+2
+time:0ms
+number:969
+2	3
+2/t3
+1
+time:0ms
+number:970
+2	3
+2/t3
+1
+time:0ms
+number:971
+1	2
+5	3
+5/t3
+2
+time:0ms
+number:972
+2	3
+2/t3
+1
+time:0ms
+number:973
+2	4
+4	2
+7	2
+11	1
+13	3
+13/t3
+5
+time:0ms
+number:974
+9	1
+10	1
+12	4
+14	3
+14/t3
+4
+time:0ms
+number:975
+1	2
+2	3
+2/t3
+2
+time:0ms
+number:976
+3	2
+4	3
+4/t3
+2
+time:0ms
+number:977
+2	2
+3	2
+4	4
+6	3
+6/t3
+4
+time:0ms
+number:978
+4	1
+5	1
+6	4
+7	3
+7/t3
+4
+time:0ms
+number:979
+7	1
+9	3
+9/t3
+2
+time:0ms
+number:980
+3	3
+3/t3
+1
+time:0ms
+number:981
+5	4
+7	3
+7/t3
+2
+time:0ms
+number:982
+1	3
+1/t3
+1
+time:0ms
+number:983
+1	3
+1/t3
+1
+time:0ms
+number:984
+1	4
+3	1
+4	2
+7	2
+8	2
+9	3
+9/t3
+6
+time:0ms
+number:985
+2	3
+2/t3
+1
+time:0ms
+number:986
+6	1
+7	3
+7/t3
+2
+time:0ms
+number:987
+1	3
+1/t3
+1
+time:0ms
+number:988
+8	2
+10	3
+10/t3
+2
+time:0ms
+number:989
+4	1
+7	2
+9	4
+10	3
+10/t3
+4
+time:0ms
+number:990
+3	2
+4	3
+4/t3
+2
+time:0ms
+number:991
+1	3
+1/t3
+1
+time:0ms
+number:992
+1	2
+5	2
+6	3
+6/t3
+3
+time:0ms
+number:993
+3	3
+3/t3
+1
+time:0ms
+number:994
+1	1
+7	2
+8	4
+9	1
+11	2
+12	3
+12/t3
+6
+time:0ms
+number:995
+3	4
+8	3
+8/t3
+2
+time:0ms
+number:996
+2	4
+3	2
+5	2
+7	1
+8	2
+12	2
+14	2
+16	2
+20	2
+21	1
+23	1
+24	2
+26	3
+26/t3
+13
+time:0ms
+number:997
+1	1
+9	2
+10	4
+12	2
+13	2
+15	2
+16	3
+16/t3
+7
+time:0ms
+number:998
+6	2
+7	4
+10	1
+11	2
+12	3
+12/t3
+5
+time:0ms
+number:999
+1	2
+3	3
+3/t3
+2
+time:0ms
+number:1000
+1	3
+1/t3
+1
+time:0ms
